@@ -1,5 +1,4 @@
 [![Home](/src/home.png)](README.md)
-________
 
 # Architecture
 
