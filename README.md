@@ -5,8 +5,11 @@ ______
 ### Spotlight
 Spotlight is the section where amazing and/or new references are highlighted that are worth it.
 
-| Title/Link | Description | Author |
-| :--------: | :---------- | :----- |
+|                                        Title/Link                                         | Description                                     | Author               |
+| :---------------------------------------------------------------------------------------: | :---------------------------------------------- | :------------------- |
+|                 [Azure Services Map](https://aka.ms/azure-services-map/)                  | All Azure services with references to its docs. | Anton Romanov (MSFT) |
+| [Blog Azure Government - Security & Compliance](https://devblogs.microsoft.com/azuregov/) | Fantastic blog with plenty security references  | MSFT                 |
+|            [Tech Community Landing Page](https://techcommunity.microsoft.com/)            | Communities, Blogs, Events & more               | MSFT                 |
 
 ______
 
@@ -17,30 +20,29 @@ ______
 - [Contents](#contents)
     - [Certifications](#certifications)
     - [Further topics](#further-topics)
-    - [Common Resources](#common-resources)
-    - [Miscellaneous References](#miscellaneous-references)
     - [Contributing](#contributing)
     - [Contact](#contact)
 
 ### Certifications
 - [Certifications](certifications.md)
-    - [Exam AZ-500: Microsoft Azure Security Technologies](az-500.md)
+    - [Exam AZ-900: Microsoft Azure Fundamentals](cert_az-900.md)
+    - [Exam AZ-103: Microsoft Azure Administrator](cert_az-103.md)
+    - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](cert_az-120.md)
+    - [Exam AZ-204: Developing Solutions for Microsoft Azure (beta)](cert_az-204.md)
+    - [Exam AZ-220: Microsoft Azure IoT Developer (beta)](cert_az-220.md)
+    - [Exam AZ-300: Microsoft Azure Architect Technologies](cert_az-300.md)
+    - [Exam AZ-301: Microsoft Azure Architect Design](cert_az-301.md)
+    - [Exam AZ-400: Microsoft Azure DevOps Solutions](cert_az-400.md)
+    - [Exam AZ-500: Microsoft Azure Security Technologies](cert_az-500.md)
+    - [Exam AI-100: Designing and Implementing an Azure AI Solution](cert_az-500.md)
+    - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](cert_dp-100.md)
+    - [Exam DP-200: Implementing an Azure Data Solution](cert_dp-200.md)
+    - [Exam DP-201: Designing an Azure Data Solution](cert_dp-201.md)
 
 ### Further topics
 - [Architecture](architecture.md)
 - [Security](security.md)
 
-
-### Common Resources
-
-These references are useful across all certifications.
-
-| Title/Link | Author |
-| :--------- | :----- |
-
-### Miscellaneous References
-| Title/Link | Author | test |
-| :--------: | :----- | :--- |
 
 ### Contributing
 - Please contribute to make this list really awesome, exhaustive, and keep it up to date.

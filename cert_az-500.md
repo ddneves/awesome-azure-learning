@@ -2,7 +2,8 @@
 ________
 
 # Exam AZ-500: Microsoft Azure Security Technologies
-![Cert](/src/azure-security-engineer-associate.png)
+
+![Cert](/src/az-500.png)
 
 |                                   |                                                                                                                                         |      |
 | :-------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------- | :--- |
@@ -14,6 +15,7 @@ ________
 |         **Exam format:**          | Multiple choice and multiple select, taken in person at a test center.                                                                  |
 |    **Recommended experience:**    | 3+ years of industry experience including 1+ years designing and managing solutions using GCP.                                          |
 |    **Official Practice Test:**    | https://www.mindhub.com/p/MU-AZ-500                                                                                                     |
+
 
 ### Posts
 | Published | Title/Link | Author |
