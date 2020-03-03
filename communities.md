@@ -1,4 +1,4 @@
-[![Home](/src/home.png)](README.md)
+[![Home](/src/Home.png)](README.md)
 ________
 
 # Communities
