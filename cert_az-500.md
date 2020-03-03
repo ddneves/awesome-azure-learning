@@ -1,4 +1,4 @@
-[![Home](/src/Home.png)](certifications.md)
+[![Home](/src/home.png)](certifications.md)
 ________
 
 # Exam AZ-500: Microsoft Azure Security Technologies

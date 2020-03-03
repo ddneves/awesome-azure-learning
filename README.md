@@ -1,7 +1,7 @@
-# Awesome Azure Learning [![Awesome](./src/Awesome.png)](https://github.com/sindresorhus/awesome)
+# Awesome Azure Learning [![Awesome](./src/awesome.png)](https://github.com/sindresorhus/awesome)
 This repo includes numerous references for Azure learning, especially for the Azure Certs, Azure Architecture, and any other learning materials e.g. Security topics.
 
-![Learn](/src/Learn.png)
+![Learn](/src/learn.png)
 ______
 ## Spotlight
 Spotlight is the section where amazing and/or new references are highlighted that are worth it.

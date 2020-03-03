@@ -1,4 +1,4 @@
-[![Home](/src/Home.png)](README.md)
+[![Home](/src/home.png)](README.md)
 ________
 
 # Certifications
