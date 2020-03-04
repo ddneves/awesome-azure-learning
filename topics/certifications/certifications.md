@@ -1,4 +1,4 @@
-# [![Home](/src/home.png)](README.md) | Certifications
+# [![Home](/img/home.png)](../../README.md) | Certifications
 Landing page for all information about Azure certifications
 
 - [Certifications](certifications.md)
@@ -11,12 +11,12 @@ Landing page for all information about Azure certifications
     - [Exam AZ-301: Microsoft Azure Architect Design](cert_az-301.md)
     - [Exam AZ-400: Microsoft Azure DevOps Solutions](cert_az-400.md)
     - [Exam AZ-500: Microsoft Azure Security Technologies](cert_az-500.md)
-    - [Exam AI-100: Designing and Implementing an Azure AI Solution](cert_az-500.md)
+    - [Exam AI-100: Designing and Implementing an Azure AI Solution](../structure_certifications/cert_az-500.md)
     - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](cert_dp-100.md)
     - [Exam DP-200: Implementing an Azure Data Solution](cert_dp-200.md)
     - [Exam DP-201: Designing an Azure Data Solution](cert_dp-201.md)
 
-![Cert](/src/cert-overview.png)
+![Cert](/img/cert-overview.png)
 
 ### Common Resources
 |                                                Title/Link                                                 | Description                                                                     | Author |

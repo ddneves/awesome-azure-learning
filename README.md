@@ -1,7 +1,7 @@
-# Awesome Azure Learning [![Awesome](./src/awesome.png)](https://github.com/sindresorhus/awesome)
+# Awesome Azure Learning [![Awesome](./img/awesome.png)](https://github.com/sindresorhus/awesome)
 This repo includes numerous references for Azure learning, especially for the Azure Certs, Azure Architecture, and any other learning materials e.g. Security topics.
 
-![Learn](/src/learn.png)
+![Learn](/img/learn.png)
 ______
 ## Spotlight
 Spotlight is the section where amazing and/or new references are highlighted that are worth it.
@@ -43,10 +43,10 @@ ______
 
 
 ## Contributing
-- Please contribute to make this list really awesome, exhaustive, and keep it up to date.
-- Contributing to this list is easy: preferred is always a pull request in this repo or at least an issue. Reach out to me directly when in doubt.
+- Please contribute to make this list really awesome, exhaustive, and help us to keep it up to date.
+- Contributing to this list is easy: preferred is always a pull request in this repo or at least an issue. Reach out to me directly when in doubt or hitting any challenges.
 - Please provide details as required by that section.  Links, author names, date published, which certification(s) does it apply to, etc.
-- For book links try to use localization agnostic links. When in doubt, just commit your link and it will be exchanged if necessary.
+- For book links try to use localization agnostic links. When in doubt, please just commit your link and it will be exchanged if necessary.
 - Share! Share this link and share your knowledge. I will be happy to add a reference to your future articles to the list as well.
 
 ## Contact

@@ -1,4 +1,4 @@
-# [![Home](/src/home.png)](README.md) | Blogs
+# [![Home](/img/home.png)](../README.md) | Blogs
 
 
 ### Common Blog resources / Landing pages

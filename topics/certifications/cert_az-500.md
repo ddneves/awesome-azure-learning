@@ -1,6 +1,6 @@
-# [![Home](/src/home.png)](certifications.md) | Exam AZ-500: Microsoft Azure Security Technologies
+# [![Home](/img/home.png)](certifications.md) | Exam AZ-500: Microsoft Azure Security Technologies
 
-![Cert](/src/az-500.png)
+![Cert](/img/az-500.png)
 
 |                                   |                                                                                                                                         |      |
 | :-------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------- | :--- |

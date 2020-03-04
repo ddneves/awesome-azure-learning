@@ -1,4 +1,4 @@
-# [![Home](/src/home.png)](README.md) | Architecture
+# [![Home](/img/home.png)](../README.md) | Architecture
 
 
 ### Common Resources

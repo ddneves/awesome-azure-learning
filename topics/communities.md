@@ -1,4 +1,4 @@
-# [![Home](/src/home.png)](README.md) | Communities
+# [![Home](/img/home.png)](../README.md) | Communities
 
 
 ### Landing Pages
