@@ -1,6 +1,4 @@
-[![Home](/src/home.png)](README.md)
-
-# Architecture
+# [![Home](/src/home.png)](README.md) | Architecture
 
 
 ### Common Resources

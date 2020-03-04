@@ -1,7 +1,4 @@
-[![Home](/src/home.png)](README.md)
-________
-
-# Learning
+# [![Home](/src/home.png)](README.md) | Learning
 General learning resources.
 
 

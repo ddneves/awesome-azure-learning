@@ -1,7 +1,4 @@
-[![Home](/src/home.png)](README.md)
-________
-
-# Certifications
+# [![Home](/src/home.png)](README.md) | Certifications
 Landing page for all information about Azure certifications
 
 - [Certifications](certifications.md)
@@ -19,7 +16,7 @@ Landing page for all information about Azure certifications
     - [Exam DP-200: Implementing an Azure Data Solution](cert_dp-200.md)
     - [Exam DP-201: Designing an Azure Data Solution](cert_dp-201.md)
 
-![Cert](/src/Cert-overview.png)
+![Cert](/src/cert-overview.png)
 
 ### Common Resources
 |                                                Title/Link                                                 | Description                                                                     | Author |

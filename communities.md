@@ -1,7 +1,4 @@
-[![Home](/src/home.png)](README.md)
-________
-
-# Communities
+# [![Home](/src/home.png)](README.md) | Communities
 
 
 ### Landing Pages
