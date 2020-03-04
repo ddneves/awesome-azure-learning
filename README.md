@@ -18,28 +18,32 @@ ______
 ## Contents
 - [Contents](#contents)
     - [Spotlight](#spotlight)
-    - [Further topics](#further-topics)
+    - [Topics](#topics)
     - [Contributing](#contributing)
     - [Contact](#contact)
 
 
-## Further topics
-- [Certifications](certifications.md)
-    - [Exam AZ-900: Microsoft Azure Fundamentals](cert_az-900.md)
-    - [Exam AZ-103: Microsoft Azure Administrator](cert_az-103.md)
-    - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](cert_az-120.md)
-    - [Exam AZ-204: Developing Solutions for Microsoft Azure (beta)](cert_az-204.md)
-    - [Exam AZ-220: Microsoft Azure IoT Developer (beta)](cert_az-220.md)
-    - [Exam AZ-300: Microsoft Azure Architect Technologies](cert_az-300.md)
-    - [Exam AZ-301: Microsoft Azure Architect Design](cert_az-301.md)
-    - [Exam AZ-400: Microsoft Azure DevOps Solutions](cert_az-400.md)
-    - [Exam AZ-500: Microsoft Azure Security Technologies](cert_az-500.md)
-    - [Exam AI-100: Designing and Implementing an Azure AI Solution](cert_az-500.md)
-    - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](cert_dp-100.md)
-    - [Exam DP-200: Implementing an Azure Data Solution](cert_dp-200.md)
-    - [Exam DP-201: Designing an Azure Data Solution](cert_dp-201.md)
-- [Architecture](architecture.md)
-- [Security](security.md)
+## Topics
+- [Learning](./topics/learning.md)
+- [Certifications](./topics/certifications/certifications.md)
+    - [Exam AZ-900: Microsoft Azure Fundamentals](./topics/certifications/cert_az-900.md)
+    - [Exam AZ-103: Microsoft Azure Administrator](./topics/certifications/cert_az-103.md)
+    - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](./topics/certifications/cert_az-120.md)
+    - [Exam AZ-204: Developing Solutions for Microsoft Azure (beta)](./topics/certifications/cert_az-204.md)
+    - [Exam AZ-220: Microsoft Azure IoT Developer (beta)](./topics/certifications/cert_az-220.md)
+    - [Exam AZ-300: Microsoft Azure Architect Technologies](./topics/certifications/cert_az-300.md)
+    - [Exam AZ-301: Microsoft Azure Architect Design](./topics/certifications/cert_az-301.md)
+    - [Exam AZ-400: Microsoft Azure DevOps Solutions](./topics/certifications/cert_az-400.md)
+    - [Exam AZ-500: Microsoft Azure Security Technologies](./topics/certifications/cert_az-500.md)
+    - [Exam AI-100: Designing and Implementing an Azure AI Solution](./topics/certifications/cert_az-500.md)
+    - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](./topics/certifications/cert_dp-100.md)
+    - [Exam DP-200: Implementing an Azure Data Solution](./topics/certifications/cert_dp-200.md)
+    - [Exam DP-201: Designing an Azure Data Solution](./topics/certifications/cert_dp-201.md)
+- [Blogs](./topics/blogs.md)
+- [Communities](./topics/communities.md)
+- [Architecture](./topics/architecture.md)
+- [Security](./topics/security.md)
+
 
 
 ## Contributing
