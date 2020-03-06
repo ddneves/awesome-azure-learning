@@ -1,4 +1,4 @@
-# [![Home](/img/home.png)](certifications.md) | Exam AZ-500: Microsoft Azure Security Technologies
+# [![Home](/img/home.png)](../../README.md) | Exam AZ-500: Microsoft Azure Security Technologies
 
 ![Cert](/img/az-500.png)
 

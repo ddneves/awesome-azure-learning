@@ -3,14 +3,22 @@ This repo includes numerous references for Azure learning, especially for the Az
 
 ![Learn](/img/learn.png)
 ______
-## Spotlight
-Spotlight is the section where amazing and/or new references are highlighted that are worth it.
 
-|                                        Title/Link                                         | Description                                     | Author               |
-| :---------------------------------------------------------------------------------------: | :---------------------------------------------- | :------------------- |
-|                 [Azure Services Map](https://aka.ms/azure-services-map/)                  | All Azure services with references to its docs. | Anton Romanov (MSFT) |
-| [Blog Azure Government - Security & Compliance](https://devblogs.microsoft.com/azuregov/) | Fantastic blog with plenty security references  | MSFT                 |
-|            [Tech Community Landing Page](https://techcommunity.microsoft.com/)            | Communities, Blogs, Events & more               | MSFT                 |
+##Spotlight
+
+![Learn](/img/spotlight.png)
+
+Spotlight is the section where amazing or new references are highlighted that you should have a look at.
+
+
+
+|                                               Title/Link                                                | Description                                       | Author               |
+| :-----------------------------------------------------------------------------------------------------: | :------------------------------------------------ | :------------------- |
+|                        [Azure Services Map](https://aka.ms/azure-services-map/)                         | All Azure services with references to its docs.   | Anton Romanov (MSFT) |
+| [Slide Deck - Certification Overview](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) | Full overview of all certifications and roadmaps. | MSFT                 |
+|        [Blog Azure Government - Security & Compliance](https://devblogs.microsoft.com/azuregov/)        | Fantastic blog with plenty security references    | MSFT                 |
+|                   [Tech Community Landing Page](https://techcommunity.microsoft.com/)                   | Communities, Blogs, Events & more                 | MSFT                 |
+
 
 ______
 
