@@ -4,7 +4,7 @@ This repo includes numerous references for Azure learning, especially for the Az
 ![Learn](/img/learn.png)
 ______
 
-##Spotlight
+## Spotlight
 
 ![Learn](/img/spotlight.png)
 
@@ -56,7 +56,7 @@ ______
 
 ## Contributing
 - Please contribute to make this list really awesome, exhaustive, and help us to keep it up to date.
-- Contributing to this list is easy: preferred is always a pull request in this repo or at least an issue. Reach out to me directly when in doubt or hitting any challenges.
+- Contributing to this list is simple: the preferred approach is raising a pull request to this repo or at least opening up an issue. Reach out to me directly when in doubt or hitting any challenges.
 - Please provide details as required by that section.  Links, author names, date published, which certification(s) does it apply to, etc.
 - For book links try to use localization agnostic links. When in doubt, please just commit your link and it will be exchanged if necessary.
 - Share! Share this link and share your knowledge. I will be happy to add a reference to your future articles to the list as well.
