@@ -30,7 +30,7 @@ ______
     - [Contributing](#contributing)
     - [Code of Conduct](#code-of-conduct)
     - [Contact](#contact)
-
+    - [License](#license)
 
 ## Topics
 - [Learning](./topics/learning.md)
@@ -51,7 +51,6 @@ ______
 - [Communities](./topics/communities.md)
 - [Architecture](./topics/architecture.md)
 - [Security](./topics/security.md)
-
 
 ## Contributing
 - Please contribute to make this list really awesome, exhaustive, and help us to keep it up to date.
