@@ -1,0 +1,11 @@
+name: Greetings
+on: [pull_request, issues]
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Thank you very much for raising the issue. We will shortly have a look at it.'
+        pr-message: 'Thank you very much for contributing! Please give us a bit of time to review it! We will be in touch soon.'
