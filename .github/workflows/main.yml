@@ -26,10 +26,3 @@ jobs:
     - name: Run a one-line script
       run: echo Hello, world!
 
-    - name: awesome-lint
-      uses: squadcastHQ/awesome-lint-action@v1.0.1
-      with:
-        # The awesome README file to be processed
-        readme-file: README.md
-        # where to find the README file
-        workspace-dir: ${{ GITHUB.GITHUB_WORKSPACE }}
