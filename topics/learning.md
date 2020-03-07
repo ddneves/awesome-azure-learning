@@ -41,4 +41,4 @@ These references are useful across all certifications.
 
 
 ___
-[↑Top](#homeimghomepngreadmemd-home-learning "Back to the top.")
+ <a href="#top" title="Back to the top.">↑Top</a>

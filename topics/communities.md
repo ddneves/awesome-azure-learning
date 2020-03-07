@@ -24,4 +24,4 @@
 
 
 ___
-[↑Top](#homeimghomepngreadmemd-home-communities "Back to the top.")
+ <a href="#top" title="Back to the top.">↑Top</a>

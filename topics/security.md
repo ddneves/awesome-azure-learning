@@ -19,4 +19,4 @@
 |             [Microsoft Security Community](https://aka.ms/SecurityCommunity)              | Tech events around the world                   | MSFT   |
 
 ___
-[↑Top](#homeimghomepngreadmemd-home-security "Back to the top.")
+ <a href="#top" title="Back to the top.">↑Top</a>

@@ -60,4 +60,4 @@
 |                  [Cloud Strategy](https://leanpub.com/cloudstrategy)                  | An Architect Elevator Guide to Successful Cloud Migration | Gregor Hohpe |
 
 ___
-[↑Top](#homeimghomepngreadmemd-home-architecture "Back to the top.")
+ <a href="#top" title="Back to the top.">↑Top</a>

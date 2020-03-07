@@ -31,4 +31,4 @@ ___
 |                [Pluralsight + Azure](https://www.pluralsight.com/partners/microsoft/azure)                | Pluralsight and Microsoft have partnered to help you become an expert in Azure. | MSFT   |
 |              [Microsoft Learning Repository with Labs](https://github.com/MicrosoftLearning)              | Repository with all labs for all certifications                                 | MSFT   |
 ___
-[↑Top](#homeimghomepngreadmemd-home-certifications "Back to the top.")
+ <a href="#top" title="Back to the top.">↑Top</a>

@@ -70,5 +70,7 @@ And another recommendation is to keep your humbleness, no matter how good you wi
 ## Contact
 Feel free to contact me directly via [LinkedIn](https://www.linkedin.com/in/daviddasneves/) or [Twitter](https://twitter.com/david_das_neves).
 
+## License
+[![CC0](/img/cc-zero.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ___
-[↑Top](#awesome-azure-learning-awesomeimgawesomepnghttpsgithubcomsindresorhusawesome "Back to the top.")
+ <a href="#top" title="Back to the top.">↑Top</a>
