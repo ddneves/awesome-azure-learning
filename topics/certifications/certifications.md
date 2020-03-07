@@ -11,7 +11,7 @@ Landing page for all information about Azure certifications
     - [Exam AZ-301: Microsoft Azure Architect Design](az-301.md)
     - [Exam AZ-400: Microsoft Azure DevOps Solutions](az-400.md)
     - [Exam AZ-500: Microsoft Azure Security Technologies](az-500.md)
-    - [Exam AI-100: Designing and Implementing an Azure AI Solution](../structure_certifications/az-500.md)
+    - [Exam AI-100: Designing and Implementing an Azure AI Solution](ai-100.md)
     - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](dp-100.md)
     - [Exam DP-200: Implementing an Azure Data Solution](dp-200.md)
     - [Exam DP-201: Designing an Azure Data Solution](dp-201.md)
