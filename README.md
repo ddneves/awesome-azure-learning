@@ -19,7 +19,7 @@ Spotlight is the section where amazing or new references are highlighted that yo
 |        [Blog Azure Government - Security & Compliance](https://devblogs.microsoft.com/azuregov/)        | Fantastic blog with plenty security references                | MSFT                 |
 |                   [Tech Community Landing Page](https://techcommunity.microsoft.com/)                   | Communities, Blogs, Events & more                             | MSFT                 |
 |         [Learn how to learn](https://medium.com/@DaviddasNeves/learn-how-to-learn-a55910604b4e)         | A full guide with tips and hints on how to learn effectively. | David das Neves      |
-
+|             [Microsoft Learning Repository with Labs](https://github.com/MicrosoftLearning)             | Repository with all labs for all certifications               | MSFT                 |
 ______
 
 
@@ -48,7 +48,6 @@ ______
     - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](./topics/certifications/cert_dp-100.md)
     - [Exam DP-200: Implementing an Azure Data Solution](./topics/certifications/cert_dp-200.md)
     - [Exam DP-201: Designing an Azure Data Solution](./topics/certifications/cert_dp-201.md)
-- [Blogs](./topics/blogs.md)
 - [Communities](./topics/communities.md)
 - [Architecture](./topics/architecture.md)
 - [Security](./topics/security.md)
@@ -71,3 +70,5 @@ And another recommendation is to keep your humbleness, no matter how good you wi
 ## Contact
 Feel free to contact me directly via [LinkedIn](https://www.linkedin.com/in/daviddasneves/) or [Twitter](https://twitter.com/david_das_neves).
 
+___
+[↑Top](#awesome-azure-learning-awesomeimgawesomepnghttpsgithubcomsindresorhusawesome "Back to the top.")

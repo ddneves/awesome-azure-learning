@@ -1,7 +1,15 @@
-# [![Home](/img/home.png)](../README.md) | Architecture
+# [![Home](/img/home.png)](../README.md "Home") | Architecture
+
+## Contents
+- [Contents](#contents)
+    - [Common Resources](#common-resource)
+    - [Guides](#guides)
+    - [Templates](#templates)
+    - [Sessions](#sessions)
 
 
-### Common Resources
+
+## Common Resources
 |                                             Title/Link                                             | Description                                                    | Author               |
 | :------------------------------------------------------------------------------------------------: | :------------------------------------------------------------- | :------------------- |
 |                      [Azure Services Map](https://aka.ms/azure-services-map/)                      | All Azure services with references to its docs.                | Anton Romanov (MSFT) |
@@ -11,15 +19,22 @@
 |     [Microsoft Azure Cheat Sheet ](https://www.whizlabs.com/blog/microsoft-azure-cheat-sheet/)     | Azure services described in few words.                         | Whizlabs             |
 
 
-### Guides
-|                                                     Title/Link                                                     | Description                      | Author |
-| :----------------------------------------------------------------------------------------------------------------: | :------------------------------- | :----- |
-|        [Azure for AWS Professionals](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/)        | Azure for AWS people.            | Docs   |
-| [AWS to Azure services comparison ](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services) | AWS to Azure services comparison | Docs   |
+## Guides 
+|                                                    Title/Link                                                     | Description                      | Author |
+| :---------------------------------------------------------------------------------------------------------------: | :------------------------------- | :----- |
+|       [Azure for AWS Professionals](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/)        | Azure for AWS people.            | Docs   |
+| [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services) | AWS to Azure services comparison | Docs   |
+
+## Templates
+|                                         Title/Link                                          | Description                      | Author |
+| :-----------------------------------------------------------------------------------------: | :------------------------------- | :----- |
+| [Microsoft Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) | AWS to Azure services comparison | MSFT   |
 
 
-### Sessions
+## Sessions
 |                                                Title/Link                                                | Description | Author |
 | :------------------------------------------------------------------------------------------------------: | :---------- | :----- |
 | [Set Up Microsoft Visio for Azure Architecture Diagramming](https://www.youtube.com/watch?v=UjPZAC1AbKc) |             |        |
 
+___
+[↑Top](#homeimghomepngreadmemd-home-architecture "Back to the top.")
