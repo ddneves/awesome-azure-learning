@@ -4,8 +4,8 @@
 
 ## Contents
 - [Contents](#contents)
+    - [Landing Pages](#landing-pages)
     - [Topic](#Topic)
-    - [Blog](#blog)
 
 ### Landing Pages
 |                                                   Title/Link                                                    | Description                                                                                                 | Author |
