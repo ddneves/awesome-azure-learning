@@ -1,6 +1,11 @@
 # [![Home](/img/home.png)](../../README.md "Home") | Certifications 
-Landing page for all information about Azure certifications
+This is the landing page for all information about Azure certifications, how to train and prepare for those.
+For each certification you will find a dedicated page with all learning materials, guides and experiences, labs session and many more.
 
+![Cert](/img/cert-overview.png)
+**Reference:** [Slide Deck - Certification Overview](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) 
+
+## Contents
 - [Certifications](certifications.md)
     - [Exam AZ-900: Microsoft Azure Fundamentals](az-900.md)
     - [Exam AZ-103: Microsoft Azure Administrator](az-103.md)
@@ -15,20 +20,18 @@ Landing page for all information about Azure certifications
     - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](dp-100.md)
     - [Exam DP-200: Implementing an Azure Data Solution](dp-200.md)
     - [Exam DP-201: Designing an Azure Data Solution](dp-201.md)
-
-![Cert](/img/cert-overview.png)
-**Reference:** [Slide Deck - Certification Overview](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) 
 ___
 
 ## Common Resources
-|                                                Title/Link                                                 | Description                                                                     | Author |
-| :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------ | :----- |
-|                    [Overview Microsoft Certifications](http://aka.ms/TrainCertPoster)                     | Training and Certification Poster                                               | MSFT   |
-| [Microsoft training and certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) | Slide deck showing the certification roadmaps for all certs                     | MSFT   |
-|     [Role-based certifications](https://www.microsoft.com/en-us/learning/certification-overview.aspx)     | Certification Overview                                                          | MSFT   |
-|  [Microsoft training and certification help](https://docs.microsoft.com/en-us/learn/certifications/help)  | Have questions about Microsoft training and certification products?             | MSFT   |
-|                [Exam Replays](https://docs.microsoft.com/en-us/learn/certifications/deals)                | Microsoft Certification Deals.                                                  | MSFT   |
-|                [Pluralsight + Azure](https://www.pluralsight.com/partners/microsoft/azure)                | Pluralsight and Microsoft have partnered to help you become an expert in Azure. | MSFT   |
-|              [Microsoft Learning Repository with Labs](https://github.com/MicrosoftLearning)              | Repository with all labs for all certifications                                 | MSFT   |
+|                                                Title/Link                                                 | Description                                                                                  | Author |
+| :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------- | :----- |
+|                    [Overview Microsoft Certifications](http://aka.ms/TrainCertPoster)                     | Training and Certification Poster                                                            | MSFT   |
+| [Microsoft training and certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) | Slide deck showing the certification roadmaps for all certs                                  | MSFT   |
+|     [Role-based certifications](https://www.microsoft.com/en-us/learning/certification-overview.aspx)     | Certification Overview                                                                       | MSFT   |
+|  [Microsoft training and certification help](https://docs.microsoft.com/en-us/learn/certifications/help)  | Have questions about Microsoft training and certification products?                          | MSFT   |
+|                [Exam Replays](https://docs.microsoft.com/en-us/learn/certifications/deals)                | Microsoft Certification Deals.                                                               | MSFT   |
+|                [Pluralsight + Azure](https://www.pluralsight.com/partners/microsoft/azure)                | Pluralsight and Microsoft have partnered to help you become an expert in Azure.              | MSFT   |
+|              [Microsoft Learning Repository with Labs](https://github.com/MicrosoftLearning)              | Repository with all labs for all certifications                                              | MSFT   |
+|     [Popular Microsoft Azure training](https://www.microsoft.com/en-us/learning/azure-training.aspx)      | These learning opportunities can help you develop, implement, and architect Azure solutions. | MSFT   |
 ___
  <a href="#top" title="Back to the top.">↑Top</a>

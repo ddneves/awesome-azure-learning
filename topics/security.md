@@ -1,4 +1,7 @@
 # [![Home](/img/home.png)](../README.md "Home") | Security
+This section is all about Azure Security and Compliance. The resources will also contain guides and recommendations on how to set up the environment, but you will also see a lot of resources sharing information to provide a better understanding in general Security and Compliance topics.
+
+![Learning](/img/security.png)
 
 ## Contents
 - [Contents](#contents)

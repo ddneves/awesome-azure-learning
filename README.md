@@ -51,6 +51,7 @@ ______
 - [Communities](./topics/communities.md)
 - [Architecture](./topics/architecture.md)
 - [Security](./topics/security.md)
+- [Automation](./topics/automation.md)
 
 ## Contributing
 - Please contribute to make this list really awesome, exhaustive, and help us to keep it up to date.

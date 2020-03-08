@@ -1,5 +1,9 @@
 # [![Home](/img/home.png)](../README.md "Home") | Architecture
 
+This page contains all resources about general architecture topics on Cloud Computing or Azure and helps you to wisely prepare strategies or even challenge the strategies you have already established. You will find abstracted models, technical recommendations, solution designs and much more.
+
+![Architecture](/img/architecture.png)
+
 ## Contents
 - [Contents](#contents)
     - [Common Resources](#common-resource)
@@ -29,12 +33,14 @@
 |                [Google Cloud for Azure professionals](https://cloud.google.com/docs/compare/azure)                | Google Cloud for Azure professionals | Google Docs |
 
 ## Templates
-|                                                              Title/Link                                                              | Description                                                                                            | Author |
-| :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------- | :----- |
-| [Architectures - Reference Architectures](https://docs.microsoft.com/en-us/azure/architecture/architectures/reference-architectures) | Recommended architectures for Azure.                                                                   | MSFT   |
-|       [Architectures - Example Workloads](https://docs.microsoft.com/en-us/azure/architecture/architectures/example-workloads)       | Workload examples covering the implementation of specific business or technical challenges using Azure | MSFT   |
-|              [Architectures - Azure Solution Ideas](https://docs.microsoft.com/en-us/azure/architecture/architectures/)              | Solution ideas with architecture proposal.                                                             | MSFT   |
-|                            [Managing Azure Blueprints as Code](https://github.com/Azure/azure-blueprints)                            | A library of sample Blueprints that can be easily imported via API or PowerShell                       | MSFT   |
+|                                                              Title/Link                                                              | Description                                                                                                                | Author |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------- | :----- |
+| [Architectures - Reference Architectures](https://docs.microsoft.com/en-us/azure/architecture/architectures/reference-architectures) | Recommended architectures for Azure.                                                                                       | MSFT   |
+|       [Architectures - Example Workloads](https://docs.microsoft.com/en-us/azure/architecture/architectures/example-workloads)       | Workload examples covering the implementation of specific business or technical challenges using Azure                     | MSFT   |
+|              [Architectures - Azure Solution Ideas](https://docs.microsoft.com/en-us/azure/architecture/architectures/)              | Solution ideas with architecture proposal.                                                                                 | MSFT   |
+|                            [Managing Azure Blueprints as Code](https://github.com/Azure/azure-blueprints)                            | A library of sample Blueprints that can be easily imported via API or PowerShell                                           | MSFT   |
+|                           [Code Samples](https://docs.microsoft.com/en-us/samples/browse/?products=azure)                            | This doc provides seamless samples to developer tools and technologies offering from Microsoft.                            | MSFT   |
+|                         [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)                         | With this resource, you would get access to community contributed templates that empowers you to get more done in no time. | MSFT   |
 
 ## Articles & Guides 
 |                                                                                          Title/Link                                                                                           | Description                                                                                                                                                              | Author                   |
