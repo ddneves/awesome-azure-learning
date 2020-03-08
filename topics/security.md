@@ -5,11 +5,16 @@ This section is all about Azure Security and Compliance. The resources will also
 
 ## Contents
 - [Contents](#contents)
+    - [Landing Pages](#landing-pages)
     - [Topic](#Topic)
     - [Blog](#blog)
 
+## Landing Pages
+|                            Title/Link                            | Description                                                          | Author |
+| :--------------------------------------------------------------: | :------------------------------------------------------------------- | :----- |
+| [Microsoft Security Community](https://aka.ms/SecurityCommunity) | Webinars, Videos, Email List, Private Previews, Forums and much more | MSFT   |
 
-### Templates
+## Templates
 |                                 Title/Link                                  | Description                                          | Author |
 | :-------------------------------------------------------------------------: | :--------------------------------------------------- | :----- |
 |        [Azure Policies Repo](https://github.com/Azure/azure-policy)         | Official Azure Policy repo including various samples | MSFT   |
@@ -17,7 +22,7 @@ This section is all about Azure Security and Compliance. The resources will also
 
 
 
-### Blogs
+## Blogs
 |                                        Title/Link                                         | Description                                    | Author |
 | :---------------------------------------------------------------------------------------: | :--------------------------------------------- | :----- |
 | [Blog Azure Government - Security & Compliance](https://devblogs.microsoft.com/azuregov/) | Fantastic blog with plenty security references | MSFT   |

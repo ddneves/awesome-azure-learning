@@ -12,14 +12,16 @@ Spotlight is the section where amazing or new references are highlighted that yo
 
 
 
-|                                               Title/Link                                                | Description                                                   | Author               |
-| :-----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------ | :------------------- |
-|                        [Azure Services Map](https://aka.ms/azure-services-map/)                         | All Azure services with references to its docs.               | Anton Romanov (MSFT) |
-| [Slide Deck - Certification Overview](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) | Full overview of all certifications and roadmaps.             | MSFT                 |
-|        [Blog Azure Government - Security & Compliance](https://devblogs.microsoft.com/azuregov/)        | Fantastic blog with plenty security references                | MSFT                 |
-|                   [Tech Community Landing Page](https://techcommunity.microsoft.com/)                   | Communities, Blogs, Events & more                             | MSFT                 |
-|         [Learn how to learn](https://medium.com/@DaviddasNeves/learn-how-to-learn-a55910604b4e)         | A full guide with tips and hints on how to learn effectively. | David das Neves      |
-|             [Microsoft Learning Repository with Labs](https://github.com/MicrosoftLearning)             | Repository with all labs for all certifications               | MSFT                 |
+|                                               Title/Link                                                | Description                                                          | Author               |
+| :-----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------- | :------------------- |
+|                        [Azure Services Map](https://aka.ms/azure-services-map/)                         | All Azure services with references to its docs.                      | Anton Romanov (MSFT) |
+| [Slide Deck - Certification Overview](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) | Full overview of all certifications and roadmaps.                    | MSFT                 |
+|        [Blog Azure Government - Security & Compliance](https://devblogs.microsoft.com/azuregov/)        | Fantastic blog with plenty security references                       | MSFT                 |
+|                   [Tech Community Landing Page](https://techcommunity.microsoft.com/)                   | Communities, Blogs, Events & more                                    | MSFT                 |
+|             [Microsoft Learning Repository with Labs](https://github.com/MicrosoftLearning)             | Repository with all labs for all certifications                      | MSFT                 |
+|                          [Security Webinars](https://aka.ms/SecurityWebinars)                           | Security Community webinar calendar                                  | MSFT                 |
+|                    [Microsoft Security Community](https://aka.ms/SecurityCommunity)                     | Webinars, Videos, Email List, Private Previews, Forums and much more | MSFT                 |
+
 ______
 
 

@@ -23,6 +23,8 @@
 |                   [Microsoft Open Source projects](https://opensource.microsoft.com/explore)                    | Crawl OSS projects and contribute to them                                                                                                                                                                                 | MSFT      |
 |              [The Azure Online Community](https://techcommunity.microsoft.com/t5/azure/ct-p/Azure)              | Your community for best practices and the latest news on Azure                                                                                                                                                            | MSFT      |
 |                                [Global Azure Bootcamp](https://globalazure.net/)                                | This is a worldwide and a 100 percent community-driven event organized by MVPs, regional directors, and user group leaders around the world who work in collaboration to deliver the largest one-day, global Azure event. | Community |
+|                              [Security Webinars](https://aka.ms/SecurityWebinars)                               | Security Community webinar calendar                                                                                                                                                                                       | MSFT      |
+|                        [Microsoft Security Community](https://aka.ms/SecurityCommunity)                         | Webinars, Videos, Email List, Private Previews, Forums and much more                                                                                                                                                      | MSFT      |
 
 
 ## Events & Conferences
