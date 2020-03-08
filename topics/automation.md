@@ -14,8 +14,9 @@ You will find resources like general recommendations, detailed coding templates 
     - [Books](#books)
 
 ## Common Resources
-| Title/Link | Description | Author |
-| :--------: | :---------- | :----- |
+|                            Title/Link                            | Description                           | Author            |
+| :--------------------------------------------------------------: | :------------------------------------ | :---------------- |
+| [Build5Nines - DevOps](https://build5nines.com/category/devops/) | Great list of DevOps related articles | Chris Pietschmann |
 
 
 ## Templates
@@ -29,9 +30,9 @@ You will find resources like general recommendations, detailed coding templates 
 
 
 ## Sessions
-| Title/Link | Description | Author |
-| :--------: | :---------- | :----- |
-
+|                                                                     Title/Link                                                                      | Description                              | Author                   |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------- | :----------------------- |
+| [Deploying your Azure Infrastructure with Terraform](https://channel9.msdn.com/Shows/DevOps-Lab/Deploying-your-Azure-Infrastructure-with-Terraform) | How to use Terraform to deploy to Azure. | Abel Wang, April Edwards |
 
 ## Books
 | Title/Link | Description | Author |

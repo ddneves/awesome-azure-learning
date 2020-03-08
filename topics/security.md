@@ -9,9 +9,11 @@ This section is all about Azure Security and Compliance. The resources will also
     - [Blog](#blog)
 
 
-### Topic
-| Title/Link | Description | Author |
-| :--------: | :---------- | :----- |
+### Templates
+|                                 Title/Link                                  | Description                                          | Author |
+| :-------------------------------------------------------------------------: | :--------------------------------------------------- | :----- |
+|        [Azure Policies Repo](https://github.com/Azure/azure-policy)         | Official Azure Policy repo including various samples | MSFT   |
+| [Azure Policies Community Repo ](https://github.com/Azure/Community-Policy) | Azure Policies provided by the Community             | MSFT   |
 
 
 
