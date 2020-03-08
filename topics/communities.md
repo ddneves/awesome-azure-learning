@@ -1,8 +1,6 @@
 # [![Home](/img/home.png)](../README.md "Home") | Communities
 
-
-
-![Communities](/img/communities.png)
+![Communities](/img/communitie.png)
 
 ## Contents
 - [Contents](#contents)
