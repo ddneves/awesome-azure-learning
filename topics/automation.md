@@ -13,11 +13,18 @@ You will find resources like general recommendations, detailed coding templates 
     - [Sessions](#sessions)
     - [Books](#books)
 
+
+
 ## Common Resources
 |                            Title/Link                            | Description                           | Author            |
 | :--------------------------------------------------------------: | :------------------------------------ | :---------------- |
 | [Build5Nines - DevOps](https://build5nines.com/category/devops/) | Great list of DevOps related articles | Chris Pietschmann |
 
+## Azure DevOps
+|                                                   Title/Link                                                   | Description                          | Author |
+| :------------------------------------------------------------------------------------------------------------: | :----------------------------------- | :----- |
+| [Azure DevOps Feature Timeline](https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline) | Roadmap for Azure DevOps             | MSFT   |
+|           [Azure DevOps Release Notes](https://docs.microsoft.com/en-us/azure/devops/release-notes/)           | Azure DevOps Release Notes described | MSFT   |
 
 ## Templates
 | Title/Link | Description | Author |

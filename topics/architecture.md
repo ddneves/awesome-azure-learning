@@ -7,6 +7,7 @@ This page contains all resources about general architecture topics on Cloud Comp
 ## Contents
 - [Contents](#contents)
     - [Common Resources](#common-resource)
+    - [Design](#design)
     - [Comparison](#comparison)
     - [Templates](#templates)
     - [Articles & Guides](#articles-&-guides)
@@ -14,15 +15,24 @@ This page contains all resources about general architecture topics on Cloud Comp
     - [Sessions](#sessions)
 
 ## Common Resources
-|                                                    Title/Link                                                    | Description                                                                                               | Author               |
-| :--------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------- | :------------------- |
-|                             [Azure Services Map](https://aka.ms/azure-services-map/)                             | All Azure services with references to its docs.                                                           | Anton Romanov (MSFT) |
-|                [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)                 | Landing page for everything Azure Architecture.                                                           | Docs                 |
-|        [Azure Application Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)        | Structured approach for designing applications.                                                           | Docs                 |
-|             [Cloud Design Patterns ](https://docs.microsoft.com/en-us/azure/architecture/patterns/)              | Building reliable, scalable, secure applications in the cloud.                                            | Docs                 |
-|          [Azure Architecture Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)          | Guiding tenets that can be used to improve the quality of a workload                                      | Docs                 |
-|                        [Azure Assessment](https://docs.microsoft.com/en-us/assessments/)                         | Customers can evaluate their business strategies and receive curated guidance from Microsoft Assessments. | MSFT                 |
-| [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/) | The framework gives customers a set of tools, guidance, and narratives.                                   | MSFT                 |
+|                                                                         Title/Link                                                                          | Description                                                                                               | Author               |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------- | :------------------- |
+|                                                  [Azure Services Map](https://aka.ms/azure-services-map/)                                                   | All Azure services with references to its docs.                                                           | Anton Romanov (MSFT) |
+|                                      [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)                                      | Landing page for everything Azure Architecture.                                                           | Docs                 |
+|                             [Azure Application Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)                              | Structured approach for designing applications.                                                           | Docs                 |
+|                               [Azure Architecture Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)                                | Guiding tenets that can be used to improve the quality of a workload                                      | Docs                 |
+|                                              [Azure Assessment](https://docs.microsoft.com/en-us/assessments/)                                              | Customers can evaluate their business strategies and receive curated guidance from Microsoft Assessments. | MSFT                 |
+|                      [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)                       | The framework gives customers a set of tools, guidance, and narratives.                                   | MSFT                 |
+| [Recommended naming and tagging conventions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging) | Well-defined naming and metadata tagging conventions help to quickly locate and manage resources.         | MSFT                 |
+
+## Design 
+|                                                                         Title/Link                                                                         | Description                                                                                                             | Author |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------- | :----- |
+| [Choose an Azure compute service for your application](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree) | Including a flowchart that will help you to choose a compute service for your application.                              | MSFT   |
+|              [Choose the right data store](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview)               | Overview on the different data store and on how to pick the best fit.                                                   | MSFT   |
+|    [Overview of load-balancing options in Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview)     | Decision tree for load balancing in Azure                                                                               | MSFT   |
+|             [Asynchronous messaging options in Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/messaging)              | This article describes the different types of messages and the entities that participate in a messaging infrastructure. | MSFT   |
+|                                  [Cloud Design Patterns ](https://docs.microsoft.com/en-us/azure/architecture/patterns/)                                   | Building reliable, scalable, secure applications in the cloud.                                                          | Docs   |
 
 
 ## Comparison 
