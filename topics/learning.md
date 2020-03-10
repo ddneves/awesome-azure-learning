@@ -5,15 +5,14 @@ In addition, pages holding tips and guides will be shared here, like blogs and o
 ![Learning](/img/learning.png)
 
 ## Contents
-- [Contents](#contents)
-    - [Common Resources](#common-resource)
-    - [Common Blog Landing Pages](#common-blog-landing-pages)
-    - [Dedicated Blogs](#dedicated-blogs)
-    - [Articles & Guides](#articles-&-guides)
-    - [Webinars](#webinars)
-    - [Books](#books)
-    - [Sessions](#sessions)
-    - [Miscellaneous References](#miscellaneous-references)
+- [Common Resources](#common-resource)
+- [Common Blog Landing Pages](#common-blog-landing-pages)
+- [Dedicated Blogs](#dedicated-blogs)
+- [Articles & Guides](#articles-&-guides)
+- [Webinars](#webinars)
+- [Books](#books)
+- [Sessions](#sessions)
+- [Miscellaneous References](#miscellaneous-references)
 
 ## Common Resources
 

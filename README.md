@@ -26,13 +26,11 @@ ______
 
 
 ## Contents
-- [Contents](#contents)
-    - [Spotlight](#spotlight)
-    - [Topics](#topics)
-    - [Contributing](#contributing)
-    - [Code of Conduct](#code-of-conduct)
-    - [Contact](#contact)
-    - [License](#license)
+- [Spotlight](#spotlight)
+- [Topics](#topics)
+- [Code of Conduct](#code-of-conduct)
+- [Contact](#contact)
+- [License](#license)
 
 ## Topics
 - [Learning](./topics/learning.md)

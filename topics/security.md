@@ -4,10 +4,9 @@ This section is all about Azure Security and Compliance. The resources will also
 ![Learning](/img/security.png)
 
 ## Contents
-- [Contents](#contents)
-    - [Landing Pages](#landing-pages)
-    - [Topic](#Topic)
-    - [Blog](#blog)
+- [Landing Pages](#landing-pages)
+- [Topic](#Topic)
+- [Blog](#blog)
 
 ## Landing Pages
 |                            Title/Link                            | Description                                                          | Author |

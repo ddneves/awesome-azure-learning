@@ -3,10 +3,9 @@
 ![Communities](/img/communities.png)
 
 ## Contents
-- [Contents](#contents)
-    - [Landing Pages](#landing-pages)
-    - [Events & Conferences](#events-&-conferences)
-    - [Groups](#Groups)
+- [Landing Pages](#landing-pages)
+- [Events & Conferences](#events-&-conferences)
+- [Groups](#Groups)
 
 ## Landing Pages
 |                                                   Title/Link                                                    | Description                                                                                                                                                                                                               | Author    |

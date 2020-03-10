@@ -6,12 +6,11 @@ You will find resources like general recommendations, detailed coding templates 
 ![Architecture](/img/automation.png)
 
 ## Contents
-- [Contents](#contents)
-    - [Common Resources](#common-resource)
-    - [Templates](#templates)
-    - [Articles & Guides](#articles-&-guides) 
-    - [Sessions](#sessions)
-    - [Books](#books)
+- [Common Resources](#common-resource)
+- [Templates](#templates)
+- [Articles & Guides](#articles-&-guides) 
+- [Sessions](#sessions)
+- [Books](#books)
 
 
 

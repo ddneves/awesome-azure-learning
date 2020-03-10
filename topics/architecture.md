@@ -5,14 +5,13 @@ This page contains all resources about general architecture topics on Cloud Comp
 ![Architecture](/img/architecture.png)
 
 ## Contents
-- [Contents](#contents)
-    - [Common Resources](#common-resource)
-    - [Design](#design)
-    - [Comparison](#comparison)
-    - [Templates](#templates)
-    - [Articles & Guides](#articles-&-guides)
-    - [Books](#books)
-    - [Sessions](#sessions)
+- [Common Resources](#common-resource)
+- [Design](#design)
+- [Comparison](#comparison)
+- [Templates](#templates)
+- [Articles & Guides](#articles-&-guides)
+- [Books](#books)
+- [Sessions](#sessions)
 
 ## Common Resources
 |                                                                         Title/Link                                                                          | Description                                                                                               | Author               |
