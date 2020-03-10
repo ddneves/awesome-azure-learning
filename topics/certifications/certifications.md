@@ -35,6 +35,8 @@ ___
 |     [Popular Microsoft Azure training](https://www.microsoft.com/en-us/learning/azure-training.aspx)      | These learning opportunities can help you develop, implement, and architect Azure solutions. | MSFT              |
 |                    [Exam Assessments](https://github.com/Build5Nines/exam-assessments)                    | This is a collection of Self Assessment tools to help you study for certification exams.     | Chris Pietschmann |
 |                            [Azure Mentor Repo](https://github.com/AzureMentor)                            | The Azure Mentor Repo incudles various Study Guides                                          | Azure Mentor      |
+|                             [Azure Samples](https://github.com/Azure-Samples)                             | Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby       | MSFT              |
+
 
 ## Articles
 |                                                       Title/Link                                                        | Description                             | Author            |
