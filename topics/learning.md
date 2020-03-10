@@ -57,6 +57,9 @@ These references are useful across all certifications.
 | :-----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------- | :----- |
 | [Microsoft Learning Repository with Labs](https://github.com/MicrosoftLearning) | Repository with all labs for all certifications                                               | MSFT   |
 | [Azure Hands-On Labs](https://www.microsoft.com/en-ca/sites/azurehands-onlabs/) | Free exclusive workshops to expand knowledge of Azure services through a hands-on experience. | MSFT   |
+|        [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs/)        | Plenty of slef-paced labs and instructor-led workshops here.                                  |
+| [Azure DevOps Labs](https://www.azuredevopslabs.com/) | These labs will help you to get started with Azure DevOps services to automate software delivery and meet business needs. | MSFT   |
+
 
 
 ## Books
