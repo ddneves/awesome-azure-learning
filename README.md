@@ -2,35 +2,13 @@
 This repo includes numerous references for Azure learning, especially for the Azure Certs, Azure Architecture, and any other learning materials e.g. Security topics.
 
 ![Learn](/img/learn.png)
-______
-
-## Spotlight
-
-![Learn](/img/spotlight.png)
-
-Spotlight is the section where amazing or new references are highlighted that you should have a look at.
-
-
-
-|                                               Title/Link                                                | Description                                                          | Author               |
-| :-----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------- | :------------------- |
-|                        [Azure Services Map](https://aka.ms/azure-services-map/)                         | All Azure services with references to its docs.                      | Anton Romanov (MSFT) |
-| [Slide Deck - Certification Overview](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) | Full overview of all certifications and roadmaps.                    | MSFT                 |
-|        [Blog Azure Government - Security & Compliance](https://devblogs.microsoft.com/azuregov/)        | Fantastic blog with plenty security references                       | MSFT                 |
-|                   [Tech Community Landing Page](https://techcommunity.microsoft.com/)                   | Communities, Blogs, Events & more                                    | MSFT                 |
-|             [Microsoft Learning Repository with Labs](https://github.com/MicrosoftLearning)             | Repository with all labs for all certifications                      | MSFT                 |
-|                          [Security Webinars](https://aka.ms/SecurityWebinars)                           | Security Community webinar calendar                                  | MSFT                 |
-|                    [Microsoft Security Community](https://aka.ms/SecurityCommunity)                     | Webinars, Videos, Email List, Private Previews, Forums and much more | MSFT                 |
-
-______
-
 
 ## Contents
-- [Spotlight](#spotlight)
 - [Topics](#topics)
+- [Spotlight](#spotlight)
+- [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [Contact](#contact)
-- [License](#license)
 
 ## Topics
 - [Learning](./topics/learning.md)
@@ -53,6 +31,26 @@ ______
 - [Security](./topics/security.md)
 - [Automation](./topics/automation.md)
 
+______
+
+## Spotlight
+
+![Learn](/img/spotlight.png)
+
+Spotlight is the section where amazing or new references are highlighted that you should have a look at.
+
+|                                               Title/Link                                                | Description                                                          | Author               |
+| :-----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------- | :------------------- |
+|                        [Azure Services Map](https://aka.ms/azure-services-map/)                         | All Azure services with references to its docs.                      | Anton Romanov (MSFT) |
+| [Slide Deck - Certification Overview](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) | Full overview of all certifications and roadmaps.                    | MSFT                 |
+|        [Blog Azure Government - Security & Compliance](https://devblogs.microsoft.com/azuregov/)        | Fantastic blog with plenty security references                       | MSFT                 |
+|                   [Tech Community Landing Page](https://techcommunity.microsoft.com/)                   | Communities, Blogs, Events & more                                    | MSFT                 |
+|             [Microsoft Learning Repository with Labs](https://github.com/MicrosoftLearning)             | Repository with all labs for all certifications                      | MSFT                 |
+|                          [Security Webinars](https://aka.ms/SecurityWebinars)                           | Security Community webinar calendar                                  | MSFT                 |
+|                    [Microsoft Security Community](https://aka.ms/SecurityCommunity)                     | Webinars, Videos, Email List, Private Previews, Forums and much more | MSFT                 |
+
+______
+
 ## Contributing
 - Please contribute to make this list really awesome, exhaustive, and help us to keep it up to date.
 - Contributing to this list is simple: the preferred approach is raising a pull request to this repo or at least opening up an issue. Reach out to me directly when in doubt or hitting any challenges.
@@ -70,7 +68,5 @@ And another recommendation is to keep your humbleness, no matter how good you wi
 ## Contact
 Feel free to contact me directly via [LinkedIn](https://www.linkedin.com/in/daviddasneves/) or [Twitter](https://twitter.com/david_das_neves).
 
-## License
-[![CC0](/img/cc-zero.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ___
  <a href="#top" title="Back to the top.">↑Top</a>
