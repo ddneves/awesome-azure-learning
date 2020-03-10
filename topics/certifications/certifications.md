@@ -7,18 +7,19 @@ For each certification you will find a dedicated page with all learning material
 
 ## Contents
 - [Exam AZ-900: Microsoft Azure Fundamentals](az-900.md)
-- [Exam AZ-103: Microsoft Azure Administrator](az-103.md)
+- [Exam AZ-103: Microsoft Azure Administrator (deprecating)](az-103.md)
+- [Exam AZ-103: Microsoft Azure Administrator (beta)](az-103.md)
 - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](az-120.md)
 - [Exam AZ-204: Developing Solutions for Microsoft Azure (beta)](az-204.md)
 - [Exam AZ-220: Microsoft Azure IoT Developer (beta)](az-220.md)
-- [Exam AZ-300: Microsoft Azure Architect Technologies](az-300.md)
-- [Exam AZ-301: Microsoft Azure Architect Design](az-301.md)
+- [Exam AZ-300: Microsoft Azure Architect Technologies (deprecating)](az-300.md)
+- [Exam AZ-301: Microsoft Azure Architect Design (deprecating)](az-301.md)
 - [Exam AZ-400: Microsoft Azure DevOps Solutions](az-400.md)
 - [Exam AZ-500: Microsoft Azure Security Technologies](az-500.md)
 - [Exam AI-100: Designing and Implementing an Azure AI Solution](ai-100.md)
 - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](dp-100.md)
-- [Exam DP-200: Implementing an Azure Data Solution](dp-200.md)
-- [Exam DP-201: Designing an Azure Data Solution](dp-201.md)
+- [Exam DP-200: Implementing an Azure Data Solution (updating)](dp-200.md)
+- [Exam DP-201: Designing an Azure Data Solution (updating)](dp-201.md)
 ___
 
 ## Common Resources
