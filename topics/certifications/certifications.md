@@ -41,6 +41,7 @@ ___
 |                                                       Title/Link                                                        | Description                             | Author            |
 | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------- | :---------------- |
 | [Microsoft Azure Certification: Where to Start?](https://build5nines.com/microsoft-azure-certification-where-to-start/) | Introduction into Azure certs by Chris. | Chris Pietschmann |
+|    [How to learn Microsoft Azure in 2020](https://www.thomasmaurer.ch/2019/12/how-to-learn-microsoft-azure-in-2020/)    | Guidance on Azure learning              | Thomas Maurer     |
 
 ___
  <a href="#top" title="Back to the top.">↑Top</a>
