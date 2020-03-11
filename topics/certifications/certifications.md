@@ -36,6 +36,7 @@ ___
 |                    [Exam Assessments](https://github.com/Build5Nines/exam-assessments)                    | This is a collection of Self Assessment tools to help you study for certification exams.     | Chris Pietschmann |
 |                            [Azure Mentor Repo](https://github.com/AzureMentor)                            | The Azure Mentor Repo incudles various Study Guides                                          | Azure Mentor      |
 |                             [Azure Samples](https://github.com/Azure-Samples)                             | Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby       | MSFT              |
+|                  [Microsoft practice exams](https://www.examtopics.com/exams/microsoft/)                  | Plenty of verified and free Practice Exams                                                   | ExamTopics        |
 
 
 ## Articles
