@@ -29,8 +29,8 @@ This repo includes numerous references for Azure learning, especially for the Az
   - [Exam DP-201: Designing an Azure Data Solution (updating)](./topics/certifications/dp-201.md)
 - [Communities](./topics/communities.md)
 - [Architecture](./topics/architecture.md)
-- [Security](./topics/security.md)
-- [Automation](./topics/automation.md)
+- [Security (in progress)](./topics/security.md)
+- [Automation (in progress)](./topics/automation.md)
 
 ______
 
