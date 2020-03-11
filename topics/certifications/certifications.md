@@ -8,7 +8,7 @@ For each certification you will find a dedicated page with all learning material
 ## Contents
 - [Exam AZ-900: Microsoft Azure Fundamentals](az-900.md)
 - [Exam AZ-103: Microsoft Azure Administrator (deprecating)](az-103.md)
-- [Exam AZ-103: Microsoft Azure Administrator (beta)](az-103.md)
+- [Exam AZ-104: Microsoft Azure Administrator (beta)](az-104.md)
 - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](az-120.md)
 - [Exam AZ-204: Developing Solutions for Microsoft Azure (beta)](az-204.md)
 - [Exam AZ-220: Microsoft Azure IoT Developer (beta)](az-220.md)
