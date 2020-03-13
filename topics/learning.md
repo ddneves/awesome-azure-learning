@@ -26,6 +26,7 @@ These references are useful across all certifications.
 |                        [Microsoft Webinars ](https://azure.microsoft.com/en-us/overview/webinars-search/)                         | Watch online presentations and get answers about Azure                                                      | MSFT   |
 | [Microsoft Azure Training Days (in Germany)](https://www.microsoft.com/de-de/techwiese/events/microsoft-azure-training-days.aspx) | Free Azure training close to you.                                                                           | MSFT   |
 |                       [Microsoft Webinars (german)](https://www.microsoft.com/de-de/webinare/default.aspx)                        | upcoming webinars in german                                                                                 | MSFT   |
+|                          [Azure SQL and SQL Server Workshops](https://microsoft.github.io/sqlworkshops/)                          | Dedicated Azure SQL and SQL Server workshops                                                                | MSFT   |
 
 ## Common Blog Landing Pages
 |                                                         Title/Link                                                          | Description                                                         | Author |
@@ -36,9 +37,10 @@ These references are useful across all certifications.
 | [Newsletter & Blogs für Entwickler und IT-Pros (German)](https://www.microsoft.com/de-de/techwiese/newsletter/default.aspx) | Newsletter & Blogs für Entwickler und IT-Pros dedicatedly in German | MSFT   |
 
 ## Dedicated Blogs
-|                                           Title/Link                                           | Description       | Author |
-| :--------------------------------------------------------------------------------------------: | :---------------- | :----- |
-| [Microsoft DevOps Blogs](https://techcommunity.microsoft.com/t5/azure-devops/bg-p/AzureDevOps) | Azure DevOps Blog | MSFT   |
+|                                             Title/Link                                              | Description       | Author |
+| :-------------------------------------------------------------------------------------------------: | :---------------- | :----- |
+|   [Microsoft DevOps Blogs](https://techcommunity.microsoft.com/t5/azure-devops/bg-p/AzureDevOps)    | Azure DevOps Blog | MSFT   |
+| [Azure SQL Blog](https://techcommunity.microsoft.com/t5/azure-sql-database/bg-p/Azure-SQL-Database) | Azure SQL Blog    | MSFT   |
 
 ## Articles & Guides 
 |                                                       Title/Link                                                        | Description                                                                                       | Author |
@@ -53,12 +55,12 @@ These references are useful across all certifications.
 |    [Channel 9 Webinars - Mechanics](https://channel9.msdn.com/Shows/Mechanics)    | Great short sessions with consolidated information about Microsoft technologies. | MSFT   |
 
 ## Labs
-|                                   Title/Link                                    | Description                                                                                   | Author |
-| :-----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------- | :----- |
-| [Microsoft Learning Repository with Labs](https://github.com/MicrosoftLearning) | Repository with all labs for all certifications                                               | MSFT   |
-| [Azure Hands-On Labs](https://www.microsoft.com/en-ca/sites/azurehands-onlabs/) | Free exclusive workshops to expand knowledge of Azure services through a hands-on experience. | MSFT   |
-|        [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs/)        | Plenty of slef-paced labs and instructor-led workshops here.                                  |
-| [Azure DevOps Labs](https://www.azuredevopslabs.com/) | These labs will help you to get started with Azure DevOps services to automate software delivery and meet business needs. | MSFT   |
+|                                   Title/Link                                    | Description                                                                                                               | Author |
+| :-----------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------ | :----- |
+| [Microsoft Learning Repository with Labs](https://github.com/MicrosoftLearning) | Repository with all labs for all certifications                                                                           | MSFT   |
+| [Azure Hands-On Labs](https://www.microsoft.com/en-ca/sites/azurehands-onlabs/) | Free exclusive workshops to expand knowledge of Azure services through a hands-on experience.                             | MSFT   |
+|        [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs/)        | Plenty of slef-paced labs and instructor-led workshops here.                                                              |
+|              [Azure DevOps Labs](https://www.azuredevopslabs.com/)              | These labs will help you to get started with Azure DevOps services to automate software delivery and meet business needs. | MSFT   |
 
 
 
