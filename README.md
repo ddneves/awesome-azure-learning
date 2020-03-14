@@ -34,8 +34,10 @@ This repo includes numerous references for Azure learning, especially for the Az
 - [Automation (in progress)](./topics/automation.md)
 
 ## Products
-- [Sentinel (in progress)](./products/sentinel.md)
+- [Azure Functions (in progress)](./products/azurefunctions.md)
 - [Azure SQL (in progress)](./products/azuresql.md)
+- [Azure Sentinel (in progress)](./products/azuresentinel.md)
+
 
 ______
 
