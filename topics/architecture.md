@@ -7,6 +7,7 @@ This page contains all resources about general architecture topics on Cloud Comp
 ## Contents
 - [Common Resources](#common-resource)
 - [Design](#design)
+- [Diagramming](#diagramming)
 - [Comparison](#comparison)
 - [Templates](#templates)
 - [Articles & Guides](#articles-&-guides)
