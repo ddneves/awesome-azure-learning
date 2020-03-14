@@ -5,7 +5,8 @@ This repo includes numerous references for Azure learning, especially for the Az
 
 ## Contents
 - [Topics](#topics)
-- [Spotlight](#spotlight)
+- [Products](#products)
+- [Spotlight - Highlighted References](#spotlight)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [Contact](#contact)
@@ -31,6 +32,10 @@ This repo includes numerous references for Azure learning, especially for the Az
 - [Architecture](./topics/architecture.md)
 - [Security (in progress)](./topics/security.md)
 - [Automation (in progress)](./topics/automation.md)
+
+## Products
+- [Sentinel (in progress)](./products/sentinel.md)
+- [Azure SQL (in progress)](./products/azuresql.md)
 
 ______
 

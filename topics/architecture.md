@@ -33,6 +33,14 @@ This page contains all resources about general architecture topics on Cloud Comp
 |             [Asynchronous messaging options in Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/messaging)              | This article describes the different types of messages and the entities that participate in a messaging infrastructure. | MSFT   |
 |                                  [Cloud Design Patterns ](https://docs.microsoft.com/en-us/azure/architecture/patterns/)                                   | Building reliable, scalable, secure applications in the cloud.                                                          | Docs   |
 
+## Diagramming
+|                                                Title/Link                                                | Description                                                                                   | Author      |
+| :------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------- | :---------- |
+| [Set Up Microsoft Visio for Azure Architecture Diagramming](https://www.youtube.com/watch?v=UjPZAC1AbKc) | In this lesson Tim demonstrates how to set up Visio for creating Azure architecture drawings. | Tim Warner  |
+|                                   [draw.io](https://app.diagrams.net/)                                   | Design tool to create architecture diagrams                                                   | draw_io     |
+|                                 [CloudSkew](https://www.cloudskew.com/)                                  | Draw cloud architecture diagrams for free!                                                    | CloudSkew   |
+|                                  [Cloud Maker](https://cloudmaker.ai/)                                   | Cloud Maker helps you rapidly draw beautiful, standardised cloud architecture diagrams.       | Cloud Maker |
+
 
 ## Comparison 
 |                                                    Title/Link                                                     | Description                          | Author      |
@@ -63,10 +71,9 @@ This page contains all resources about general architecture topics on Cloud Comp
 |                            [Overarching IT Architecture & Roadmap](https://www.linkedin.com/pulse/introduction-moving-cloud-real-strategy-part-2-david-das-neves/)                            | IT Infrastructure Architecture from a CIO point of view for an Enterprise company and demonstrate the necessity for an Overarching IT Architecture, including a Roadmap. | David das Neves          |
 
 ## Sessions
-|                                                Title/Link                                                | Description                                                                                   | Author       |
-| :------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------- | :----------- |
-| [Set Up Microsoft Visio for Azure Architecture Diagramming](https://www.youtube.com/watch?v=UjPZAC1AbKc) | In this lesson Tim demonstrates how to set up Visio for creating Azure architecture drawings. | Tim Warner   |
-|  [The Architect Elevator: Connecting Penthouse and Engine](https://www.youtube.com/watch?v=Zq2VcRZmz78)  | What is actually the work of an IT Architect and what are the challenges?                     | Gregor Hohpe |
+|                                               Title/Link                                               | Description                                                               | Author       |
+| :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------ | :----------- |
+| [The Architect Elevator: Connecting Penthouse and Engine](https://www.youtube.com/watch?v=Zq2VcRZmz78) | What is actually the work of an IT Architect and what are the challenges? | Gregor Hohpe |
 
 ## Books
 |                                      Title/Link                                       | Description                                               | Author       |
