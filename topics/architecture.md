@@ -24,6 +24,7 @@ This page contains all resources about general architecture topics on Cloud Comp
 |                                              [Azure Assessment](https://docs.microsoft.com/en-us/assessments/)                                              | Customers can evaluate their business strategies and receive curated guidance from Microsoft Assessments. | MSFT                 |
 |                      [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)                       | The framework gives customers a set of tools, guidance, and narratives.                                   | MSFT                 |
 | [Recommended naming and tagging conventions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging) | Well-defined naming and metadata tagging conventions help to quickly locate and manage resources.         | MSFT                 |
+|        [Microsoft Cloud IT Architecture Resources](https://docs.microsoft.com/en-us/office365/enterprise/microsoft-cloud-it-architecture-resources)         | Learn core cloud architecture concepts for Microsoft identity, security, networking, and hybrid.          | MSFT                 |
 
 ## Design 
 |                                                                         Title/Link                                                                         | Description                                                                                                             | Author |
