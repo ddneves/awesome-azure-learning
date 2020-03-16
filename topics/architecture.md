@@ -25,6 +25,7 @@ This page contains all resources about general architecture topics on Cloud Comp
 |                      [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)                       | The framework gives customers a set of tools, guidance, and narratives.                                   | MSFT                 |
 | [Recommended naming and tagging conventions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging) | Well-defined naming and metadata tagging conventions help to quickly locate and manage resources.         | MSFT                 |
 |        [Microsoft Cloud IT Architecture Resources](https://docs.microsoft.com/en-us/office365/enterprise/microsoft-cloud-it-architecture-resources)         | Learn core cloud architecture concepts for Microsoft identity, security, networking, and hybrid.          | MSFT                 |
+|                                            [Azure Tech Case Studies](https://microsoft.github.io/techcasestudies/)                                           | Technical Case Studies using Azure Services                                                               | MSFT                 |
 
 ## Design 
 |                                                                         Title/Link                                                                         | Description                                                                                                             | Author |
