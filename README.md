@@ -4,14 +4,12 @@ This repo includes numerous references for Azure learning, especially for the Az
 ![Learn](/img/learn.png)
 
 ## Contents
-- [Awesome Azure Learning ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-azure-learning-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
-  - [Contents](#contents)
-  - [Topics](#topics)
-  - [Products](#products)
-  - [Spotlight](#spotlight)
-  - [Contributing](#contributing)
-  - [Code of Conduct](#code-of-conduct)
-  - [Contact](#contact)
+- [Topics](#topics)
+- [Products](#products)
+- [Spotlight](#spotlight)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [Contact](#contact)
 
 ## Topics
 - [Learning](./topics/learning.md)
