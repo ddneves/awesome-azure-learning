@@ -4,12 +4,14 @@ This repo includes numerous references for Azure learning, especially for the Az
 ![Learn](/img/learn.png)
 
 ## Contents
-- [Topics](#topics)
-- [Products](#products)
-- [Spotlight - Highlighted References](#spotlight)
-- [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
-- [Contact](#contact)
+- [Awesome Azure Learning ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-azure-learning-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
+  - [Contents](#contents)
+  - [Topics](#topics)
+  - [Products](#products)
+  - [Spotlight](#spotlight)
+  - [Contributing](#contributing)
+  - [Code of Conduct](#code-of-conduct)
+  - [Contact](#contact)
 
 ## Topics
 - [Learning](./topics/learning.md)
@@ -34,6 +36,7 @@ This repo includes numerous references for Azure learning, especially for the Az
 - [Automation (in progress)](./topics/automation.md)
 
 ## Products
+- [Azure Resource Graph (in progress)](./products/azureresourcegraph.md)
 - [Azure Functions (in progress)](./products/azurefunctions.md)
 - [Azure SQL (in progress)](./products/azuresql.md)
 - [Azure Sentinel (in progress)](./products/azuresentinel.md)
