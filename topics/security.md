@@ -5,7 +5,9 @@ This section is all about Azure Security and Compliance. The resources will also
 
 ## Contents
 - [Landing Pages](#landing-pages)
-- [Topic](#Topic)
+- [Common Resources](#common-resources)
+- [Templates](#templates)
+- [Repos](#repos)
 - [Blog](#blog)
 
 ## Landing Pages
@@ -28,6 +30,9 @@ This section is all about Azure Security and Compliance. The resources will also
 |        [Azure Policies Repo](https://github.com/Azure/azure-policy)         | Official Azure Policy repo including various samples | MSFT   |
 | [Azure Policies Community Repo ](https://github.com/Azure/Community-Policy) | Azure Policies provided by the Community             | MSFT   |
 
+## Repos
+| Title/Link | Description | Author |
+| :--------: | :---------- | :----- |
 
 
 ## Blogs

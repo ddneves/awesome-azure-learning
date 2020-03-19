@@ -30,14 +30,17 @@ This repo includes numerous references for Azure learning, especially for the Az
   - [Exam DP-201: Designing an Azure Data Solution (updating)](./topics/certifications/dp-201.md)
 - [Communities](./topics/communities.md)
 - [Architecture](./topics/architecture.md)
-- [Security (in progress)](./topics/security.md)
-- [Automation (in progress)](./topics/automation.md)
+- [Security](./topics/security.md)
+- [Automation](./topics/automation.md)
 
 ## Products
 - [Azure Resource Graph](./products/azureresourcegraph.md)
-- [Azure Functions (in progress)](./products/azurefunctions.md)
-- [Azure SQL (in progress)](./products/azuresql.md)
-- [Azure Sentinel (in progress)](./products/azuresentinel.md)
+- [Azure Functions](./products/azurefunctions.md)
+- [Azure SQL](./products/azuresql.md)
+- [Azure Security Center](products/azuresecuritycenter.md)
+- [Azure Sentinel](./products/azuresentinel.md)
+- [Kusto Query Language (KQL)](./products/kustoquerylanguage.md)
+- [Microsoft Defender ATP](./products/microsoftdefenderatp.md)
 
 
 ______
