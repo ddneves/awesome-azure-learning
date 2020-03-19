@@ -54,9 +54,9 @@ This page contains all resources about the dedicated product with general refere
 | :--------: | :---------- | :----- |
 
 ## Online Trainings
-|     Site     | Title/Link                                                                                                           | Instructor  |
-| :----------: | :------------------------------------------------------------------------------------------------------------------- | :---------- |
-| Pluralsighht | [Kusto Query Language (KQL) from Scratch](https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch) | Robert Cain |
+|    Site     | Title/Link                                                                                                           | Instructor  |
+| :---------: | :------------------------------------------------------------------------------------------------------------------- | :---------- |
+| Pluralsight | [Kusto Query Language (KQL) from Scratch](https://www.pluralsight.com/courses/kusto-query-language-kql-from-scratch) | Robert Cain |
 
 
 ___
