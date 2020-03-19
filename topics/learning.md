@@ -29,12 +29,14 @@ These references are useful across all certifications.
 |                          [Azure SQL and SQL Server Workshops](https://microsoft.github.io/sqlworkshops/)                          | Dedicated Azure SQL and SQL Server workshops                                                                | MSFT   |
 
 ## Common Blog Landing Pages
-|                                                         Title/Link                                                          | Description                                                         | Author |
-| :-------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------ | :----- |
-|             [Microsoft Tech Community Blogs](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)              | Tech Community Blogs                                                | MSFT   |
-|                                [Microsoft Developer Blogs](https://devblogs.microsoft.com/)                                 | Microsoft Developer Blogs                                           | MSFT   |
-|                               [Microsoft Azure-Blog](https://azure.microsoft.com/de-de/blog/)                               | All Azure blogs divided into the dedicated topics                   | MSFT   |
-| [Newsletter & Blogs für Entwickler und IT-Pros (German)](https://www.microsoft.com/de-de/techwiese/newsletter/default.aspx) | Newsletter & Blogs für Entwickler und IT-Pros dedicatedly in German | MSFT   |
+|                                                         Title/Link                                                          | Description                                                                                                                          | Author |
+| :-------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------- | :----- |
+|             [Microsoft Tech Community Blogs](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)              | Tech Community Blogs                                                                                                                 | MSFT   |
+|                                [Microsoft Developer Blogs](https://devblogs.microsoft.com/)                                 | Microsoft Developer Blogs                                                                                                            | MSFT   |
+|                               [Microsoft Azure-Blog](https://azure.microsoft.com/de-de/blog/)                               | All Azure blogs divided into the dedicated topics                                                                                    | MSFT   |
+| [Newsletter & Blogs für Entwickler und IT-Pros (German)](https://www.microsoft.com/de-de/techwiese/newsletter/default.aspx) | Newsletter & Blogs für Entwickler und IT-Pros dedicatedly in German                                                                  | MSFT   |
+|                             [Microsoft IT Showcase](https://www.microsoft.com/en-us/itshowcase)                             | IT Showcase shares the blueprint of Microsoft reinvention, helping you learn from our experience and accelerate your transformation. | MSFT   |
+
 
 ## Dedicated Blogs
 |                                             Title/Link                                              | Description       | Author |

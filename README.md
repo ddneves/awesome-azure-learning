@@ -59,6 +59,7 @@ Spotlight is the section where amazing or new references are highlighted that yo
 |                                      [Microsoft Hands-On Labs](https://www.microsoft.com/handsonlabs/)                                       | Plenty of slef-paced labs and instructor-led workshops here.                                                              |
 |                                            [Azure DevOps Labs](https://www.azuredevopslabs.com/)                                             | These labs will help you to get started with Azure DevOps services to automate software delivery and meet business needs. | MSFT                 |
 | [Microsoft Cloud IT Architecture Resources](https://docs.microsoft.com/en-us/office365/enterprise/microsoft-cloud-it-architecture-resources) | Learn core cloud architecture concepts for Microsoft identity, security, networking, and hybrid.                          | MSFT                 |
+|           [Hub and Spoke network topology in Azure](https://blog.kloud.com.au/2020/03/06/hub-and-spoke-network-topology-in-azure/)           | Great article about all the dependencies of a Hub&Spoke model                                                             | Lucian Frango        |
 
 ______
 
