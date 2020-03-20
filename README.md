@@ -6,14 +6,14 @@ This repo includes numerous references for Azure learning, especially for the Az
 ## Contents
 - [Topics](#topics)
 - [Products](#products)
-- [Spotlight](#spotlight)
+- [Spotlight (highlighted links)](#spotlight)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [Contact](#contact)
 
 ## Topics
 - [Learning](./topics/learning.md)
-- [Certifications](./topics/certifications/certifications.md)
+- [Certifications (general resources)](./topics/certifications/certifications.md)
   - [Exam AZ-900: Microsoft Azure Fundamentals](./topics/certifications/az-900.md)
   - [Exam AZ-103: Microsoft Azure Administrator (deprecating)](./topics/certifications/az-103.md)
   - [Exam AZ-104: Microsoft Azure Administrator (beta)](./topics/certifications/az-104.md)
