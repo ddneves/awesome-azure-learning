@@ -2,10 +2,14 @@
 This is the landing page for all information about Azure certifications, how to train and prepare for those.
 For each certification you will find a dedicated page with all learning materials, guides and experiences, labs session and many more.
 
-![Cert](/img/cert-overview.png)
-**Reference:** [Slide Deck - Certification Overview](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) 
-
 ## Contents
+- [Exam Preps](#exam-preps)
+- [Overview](#overview)
+- [Common Resources](#common-resources)
+- [Articles](#articles)
+
+
+## Exam Preps
 - [Exam AZ-900: Microsoft Azure Fundamentals](az-900.md)
 - [Exam AZ-103: Microsoft Azure Administrator (deprecating)](az-103.md)
 - [Exam AZ-104: Microsoft Azure Administrator (beta)](az-104.md)
@@ -20,6 +24,10 @@ For each certification you will find a dedicated page with all learning material
 - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](dp-100.md)
 - [Exam DP-200: Implementing an Azure Data Solution (updating)](dp-200.md)
 - [Exam DP-201: Designing an Azure Data Solution (updating)](dp-201.md)
+
+## Overview
+![Overview](/img/cert-overview.png)
+**Reference:** [Slide Deck - Certification Overview](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) 
 ___
 
 ## Common Resources

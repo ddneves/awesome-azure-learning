@@ -9,6 +9,7 @@ This section is all about Azure Security and Compliance. The resources will also
 - [Templates](#templates)
 - [Repos](#repos)
 - [Blog](#blog)
+- [Trends](#trends)
 
 ## Landing Pages
 |                            Title/Link                            | Description                                                          | Author |
@@ -40,6 +41,11 @@ This section is all about Azure Security and Compliance. The resources will also
 | :---------------------------------------------------------------------------------------: | :--------------------------------------------- | :----- |
 | [Blog Azure Government - Security & Compliance](https://devblogs.microsoft.com/azuregov/) | Fantastic blog with plenty security references | MSFT   |
 |             [Microsoft Security Community](https://aka.ms/SecurityCommunity)              | Tech events around the world                   | MSFT   |
+
+## Trends
+|                               Title/Link                                | Description                                                                          | Author  |
+| :---------------------------------------------------------------------: | :----------------------------------------------------------------------------------- | :------ |
+| [M-Trends 2020](https://content.fireeye.com/m-trends/rpt-m-trends-2020) | Fireeye Security Trends 2020, plus the references to the ones of the previous years. | Fireeye |
 
 ___
  <a href="#top" title="Back to the top.">↑Top</a>
