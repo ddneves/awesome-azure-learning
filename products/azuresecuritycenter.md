@@ -25,6 +25,8 @@ This page contains all resources about the dedicated product with general refere
 | Published | Title/Link                                                                                                | Author      |
 | :-------: | :-------------------------------------------------------------------------------------------------------- | :---------- |
 | Mar 2020  | [How Azure Sentinel and Azure Security Center Work Together](https://www.youtube.com/watch?v=DrfxrfM64Dg) | Jordan Ross |
+| Feb 2020  | [Azure Security Center webinar: Secure Score - enhanced](https://www.youtube.com/watch?v=p_yCOAhgSQk)     | MSFT        |
+ 
 
 ## Books
 | Published | Title/Link | Author |

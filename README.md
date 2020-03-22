@@ -41,6 +41,7 @@ This repo includes numerous references for Azure learning, especially for the Az
 - [Azure Sentinel](./products/azuresentinel.md)
 - [Kusto Query Language (KQL)](./products/kustoquerylanguage.md)
 - [Microsoft Defender ATP](./products/microsoftdefenderatp.md)
+- [Microsoft Quantum](./products/microsoftquantum.md)
 
 
 ______
