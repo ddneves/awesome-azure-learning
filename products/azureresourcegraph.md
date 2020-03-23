@@ -11,11 +11,11 @@ This page contains all resources about the dedicated product with general refere
 
 
 ## Common Resources
-| Title/Link | Description | Author |
-| :--------: | :---------- | :----- |
-| [Starter queries](https://docs.microsoft.com/en-us/azure/governance/resource-graph/samples/starter?tabs=azure-powershell) |Basic Starter Queries to learn KQL| MSFT| 
-| [Advanced queries](https://docs.microsoft.com/en-us/azure/governance/resource-graph/samples/advanced?tabs=azure-powershell) | Advanced Resource Graph query samples |MSFT| 
-| [Understanding the Azure Resource Graph query language](https://docs.microsoft.com/en-us/azure/governance/resource-graph/concepts/query-language) | This article covers the language components supported by Resource Graph. | MSFT|
+|                                                                    Title/Link                                                                     | Description                                                              | Author |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------- | :----- |
+|             [Starter queries](https://docs.microsoft.com/en-us/azure/governance/resource-graph/samples/starter?tabs=azure-powershell)             | Basic Starter Queries to learn KQL                                       | MSFT   |
+|            [Advanced queries](https://docs.microsoft.com/en-us/azure/governance/resource-graph/samples/advanced?tabs=azure-powershell)            | Advanced Resource Graph query samples                                    | MSFT   |
+| [Understanding the Azure Resource Graph query language](https://docs.microsoft.com/en-us/azure/governance/resource-graph/concepts/query-language) | This article covers the language components supported by Resource Graph. | MSFT   |
 
 
 
@@ -24,10 +24,11 @@ This page contains all resources about the dedicated product with general refere
 | :-------: | :--------- | :----- |
 
 ## Videos / Sessions
-| Published | Title/Link | Author |
-| :-------: | :--------- | :----- |
-| Dec 2018|[Free course on the Log Analytics query language (KQL) now available](https://azure.microsoft.com/en-us/updates/free-query-language-course-la-ai/)|Pluralsight| 
-|Jun 2019|[How to inventory Azure resources at scale](https://www.youtube.com/watch?v=iVlZdCOfKlU) |MSFT|
+| Published | Title/Link                                                                                                                                         | Author            |
+| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------- |
+| Dec 2018  | [Free course on the Log Analytics query language (KQL) now available](https://azure.microsoft.com/en-us/updates/free-query-language-course-la-ai/) | Pluralsight       |
+| Jun 2019  | [How to inventory Azure resources at scale](https://www.youtube.com/watch?v=iVlZdCOfKlU)                                                           | MSFT              |
+| Nov 2019  | [Getting started with Azure Resource Graph](https://sharegate.com/blog/webinar-recording-getting-started-with-azure-resource-graph)                | Stephane Lapointe |
 
 ## Books
 | Published | Title/Link | Author |

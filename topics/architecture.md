@@ -37,13 +37,20 @@ This page contains all resources about general architecture topics on Cloud Comp
 |                                  [Cloud Design Patterns ](https://docs.microsoft.com/en-us/azure/architecture/patterns/)                                   | Building reliable, scalable, secure applications in the cloud.                                                          | Docs   |
 
 ## Diagramming
-|                                                Title/Link                                                | Description                                                                                                         | Author        |
-| :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [Set Up Microsoft Visio for Azure Architecture Diagramming](https://www.youtube.com/watch?v=UjPZAC1AbKc) | In this lesson Tim demonstrates how to set up Visio for creating Azure architecture drawings.                       | Tim Warner    |
-|                                   [draw.io](https://app.diagrams.net/)                                   | Design tool to create architecture diagrams                                                                         | draw_io       |
-|                                 [CloudSkew](https://www.cloudskew.com/)                                  | Draw cloud architecture diagrams for free!                                                                          | CloudSkew     |
-|                                  [Cloud Maker](https://cloudmaker.ai/)                                   | Cloud Maker helps you rapidly draw beautiful, standardised cloud architecture diagrams.                             | Cloud Maker   |
-|                        [AzViz - Repo](https://github.com/PrateekKumarSingh/azviz)                        | PowerShell Module that can generate a topology diagram to Visualize Azure Network Topology and ARM templates (WIP). | Prateek Singh |
+|                                                Title/Link                                                | Description                                                                                   | Author      |
+| :------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------- | :---------- |
+| [Set Up Microsoft Visio for Azure Architecture Diagramming](https://www.youtube.com/watch?v=UjPZAC1AbKc) | In this lesson Tim demonstrates how to set up Visio for creating Azure architecture drawings. | Tim Warner  |
+|                                   [draw.io](https://app.diagrams.net/)                                   | Design tool to create architecture diagrams                                                   | draw_io     |
+|                                 [CloudSkew](https://www.cloudskew.com/)                                  | Draw cloud architecture diagrams for free!                                                    | CloudSkew   |
+|                                  [Cloud Maker](https://cloudmaker.ai/)                                   | Cloud Maker helps you rapidly draw beautiful, standardised cloud architecture diagrams.       | Cloud Maker |
+
+
+## Dashboards / Visualization
+|                                        Title/Link                                         | Description                                                                                                                                                                                                                          | Author        |
+| :---------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+|                [AzViz - Repo](https://github.com/PrateekKumarSingh/azviz)                 | PowerShell Module that can generate a topology diagram to Visualize Azure Network Topology and ARM templates (WIP).                                                                                                                  | Prateek Singh |
+| [Continuous Cloud Optimization Power BI Dashboard](https://github.com/Azure/ccodashboard) | The Continuous Cloud Optimization Power BI Dashboard (referred as CCO Dashboard here after) is a Power BI Dashboard developed using Power Query M language that pulls information directly from different Azure and Graph REST APIs. | MSFT          |
+
 
 ## Enterprise Architecture
 |                                                                                                    Title/Link                                                                                                     | Description                                                                                                                                                                          | Author |

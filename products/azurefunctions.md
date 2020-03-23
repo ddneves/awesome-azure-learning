@@ -15,8 +15,9 @@ This page contains all resources about the dedicated product with general refere
 | :--------: | :---------- | :----- |
 
 ## Posts & Guides
-| Published | Title/Link | Author |
-| :-------: | :--------- | :----- |
+| Published | Title/Link                                                                                                                           | Author           |
+| :-------: | :----------------------------------------------------------------------------------------------------------------------------------- | :--------------- |
+| Mar 2020  | [Az.Functions - Managing Azure Functions via PowerShell.](https://gist.github.com/Francisco-Gamino/73fbb67a67f13928df69974b7b9853c7) | Francisco Gamino |
 
 ## Videos / Sessions
 | Published | Title/Link | Author |
