@@ -28,6 +28,7 @@ This repo includes numerous references for Azure learning, especially for the Az
   - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](./topics/certifications/dp-100.md)
   - [Exam DP-200: Implementing an Azure Data Solution (updating)](./topics/certifications/dp-200.md)
   - [Exam DP-201: Designing an Azure Data Solution (updating)](./topics/certifications/dp-201.md)
+  - [Exam DA-100: Analyzing Data with Microsoft Power BI (beta)](./topics/certifications/da-100.md)
 - [Communities](./topics/communities.md)
 - [Architecture](./topics/architecture.md)
 - [Security](./topics/security.md)
