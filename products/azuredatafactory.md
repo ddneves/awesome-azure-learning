@@ -1,4 +1,4 @@
-# [![Home](/img/home.png)](../README.md "Home") | Azure Functions
+# [![Home](/img/home.png)](../README.md "Home") | Azure Data Factory
 
 This page contains all resources about the dedicated product with general references, blog articles, sessions and any kind of guides or information.
 
