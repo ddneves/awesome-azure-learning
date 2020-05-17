@@ -43,6 +43,7 @@ This repo includes numerous references for Azure learning, especially for the Az
 - [Kusto Query Language (KQL)](./products/kustoquerylanguage.md)
 - [Microsoft Defender ATP](./products/microsoftdefenderatp.md)
 - [Microsoft Quantum](./products/microsoftquantum.md)
+- [Azure Data Factory](./products/azuredatafactory.md)
 
 
 ______
