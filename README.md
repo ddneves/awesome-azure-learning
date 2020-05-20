@@ -44,6 +44,7 @@ This repo includes numerous references for Azure learning, especially for the Az
 - [Microsoft Defender ATP](./products/microsoftdefenderatp.md)
 - [Microsoft Quantum](./products/microsoftquantum.md)
 - [Azure Data Factory](./products/azuredatafactory.md)
+- [Azure Logic Apps](./products/azurelogicapps.md)
 
 
 ______
