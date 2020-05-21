@@ -23,6 +23,8 @@ This page contains all resources about the dedicated product with general refere
 | Mar 2020  | [Integration runtime in Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/concepts-integration-runtime) | Microsoft |
 | Oct 2018  | [Append Variable activity in Azure Data Factory: Story of combining things together](http://datanrg.blogspot.com/2018/10/append-variable-activity-in-azure-data.html) | Rayis Imayev |
 | Oct 2018  | [Setting up Code Repository for Azure Data Factory v2](https://sqlplayer.net/2018/10/setting-up-code-repository-for-azure-data-factory-v2/) | Kamil Nowinski |
+| Apr 2020  | [Set up automated testing for Azure Data Factory](https://richardswinbank.net/adf/set_up_automated_testing_for_azure_data_factory) | Richard Swinbank |
+| Dec 2019  | [Introduction to Azure Data Factory](https://www.cathrinewilhelmsen.net/series/beginners-guide-azure-data-factory/) | Cathrine Wilhelmsen |
 
 ## Videos / Sessions
 | Published | Title/Link | Author |
