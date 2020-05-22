@@ -14,11 +14,11 @@ This repo includes numerous references for Azure learning, especially for the Az
 ## Topics
 - [Learning](./topics/learning.md)
 - [Certifications (general resources)](./topics/certifications/certifications.md)
-  - Fundamentals:
+  - **Fundamentals:**
     - [Exam AZ-900: Microsoft Azure Fundamentals](./topics/certifications/az-900.md)
     - [Exam AI-900: Microsoft Azure AI Fundamentals (beta)](./topics/certifications/ai-900.md)
     - [Exam DP-900: Microsoft Azure Data Fundamentals (beta)](./topics/certifications/dp-900.md)
-  - Associate:
+  - **Associate:**
     - [Exam AZ-103: Microsoft Azure Administrator (deprecating)](./topics/certifications/az-103.md)
     - [Exam AZ-104: Microsoft Azure Administrator (beta)](./topics/certifications/az-104.md)
     - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](./topics/certifications/az-120.md)
@@ -30,13 +30,13 @@ This repo includes numerous references for Azure learning, especially for the Az
     - [Exam DP-200: Implementing an Azure Data Solution (updating)](./topics/certifications/dp-200.md)
     - [Exam DP-201: Designing an Azure Data Solution (updating)](./topics/certifications/dp-201.md)
     - [Exam DA-100: Analyzing Data with Microsoft Power BI (beta)](./topics/certifications/da-100.md)
-  - Expert:
+  - **Expert:**
     - [Exam AZ-300: Microsoft Azure Architect Technologies (deprecating)](./topics/certifications/az-300.md)
     - [Exam AZ-301: Microsoft Azure Architect Design (deprecating)](./topics/certifications/az-301.md)
     - [Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions](./topics/certifications/az-400.md)
-  - Speciality:
-    - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](az-120.md)
-    - [Exam AZ-220: Microsoft Azure IoT Developer (beta)](az-220.md)
+  - **Speciality:**
+    - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](./topics/certifications/az-120.md)
+    - [Exam AZ-220: Microsoft Azure IoT Developer (beta)](./topics/certifications/az-220.md)
 - [Communities](./topics/communities.md)
 - [Architecture](./topics/architecture.md)
 - [Security](./topics/security.md)
