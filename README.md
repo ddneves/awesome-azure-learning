@@ -35,8 +35,8 @@ This repo includes numerous references for Azure learning, especially for the Az
     - [Exam AZ-301: Microsoft Azure Architect Design (deprecating)](./topics/certifications/az-301.md)
     - [Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions](./topics/certifications/az-400.md)
   - Speciality:
-    - Exam AZ-220: Microsoft Azure IoT Developer
-    - Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads
+    - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](az-120.md)
+    - [Exam AZ-220: Microsoft Azure IoT Developer (beta)](az-220.md)
 - [Communities](./topics/communities.md)
 - [Architecture](./topics/architecture.md)
 - [Security](./topics/security.md)
