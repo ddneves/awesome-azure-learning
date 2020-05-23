@@ -46,6 +46,7 @@ This repo includes numerous references for Azure learning, especially for the Az
 - [Azure Data Factory](./products/azuredatafactory.md)
 - [Azure Logic Apps](./products/azurelogicapps.md)
 - [Azure Synapse Analytics](./products/azuresynapseanalytics.md)
+- [Azure Resource Manager (ARM)](./products/azureresourcemanager.md)
 
 
 ______

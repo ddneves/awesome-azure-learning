@@ -1,4 +1,4 @@
-# [![Home](/img/home.png)](../README.md "Home") | Azure Functions
+# [![Home](/img/home.png)](../README.md "Home") | Azure Resource Manager (ARM)
 
 This page contains all resources about the dedicated product with general references, blog articles, sessions and any kind of guides or information.
 
@@ -17,15 +17,11 @@ This page contains all resources about the dedicated product with general refere
 ## Posts & Guides
 | Published | Title/Link                                                                                                                           | Author           |
 | :-------: | :----------------------------------------------------------------------------------------------------------------------------------- | :--------------- |
-| Mar 2020  | [Az.Functions - Managing Azure Functions via PowerShell.](https://gist.github.com/Francisco-Gamino/73fbb67a67f13928df69974b7b9853c7) | Francisco Gamino |
-| Aug 2016 | [Using Azure Functions with Kentico](https://devnet.kentico.com/articles/using-azure-functions-with-kentico) | Bryan Soltis |
+| May 2020  | [Announcing ARM Template Masterclass](https://samcogan.com/arm-template-masterclass/) | Sam Cogan |
 
 ## Videos / Sessions
 | Published | Title/Link | Author |
 | :-------: | :--------- | :----- |
-| Feb 2019 | [Unzip Automatically Files with Azure Function v2](https://www.youtube.com/watch?v=GRztpy337kU) | Frank Boucher |
-
-
 
 ## Books
 | Published | Title/Link | Author |
