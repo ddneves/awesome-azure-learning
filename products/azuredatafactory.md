@@ -25,6 +25,7 @@ This page contains all resources about the dedicated product with general refere
 | Oct 2018  | [Setting up Code Repository for Azure Data Factory v2](https://sqlplayer.net/2018/10/setting-up-code-repository-for-azure-data-factory-v2/) | Kamil Nowinski |
 | Apr 2020  | [Set up automated testing for Azure Data Factory](https://richardswinbank.net/adf/set_up_automated_testing_for_azure_data_factory) | Richard Swinbank |
 | Dec 2019  | [Introduction to Azure Data Factory](https://www.cathrinewilhelmsen.net/series/beginners-guide-azure-data-factory/) | Cathrine Wilhelmsen |
+| Mar 2020 | [Transforming JSON to CSV with the help of Flatten task in Azure Data Factory - Part 1 of 4](http://datanrg.blogspot.com/2020/03/transforming-json-to-csv-with-help-of.html) | Rayis Imayev |
 
 ## Videos / Sessions
 | Published | Title/Link | Author |

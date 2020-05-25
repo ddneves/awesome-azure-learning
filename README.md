@@ -33,6 +33,7 @@ This repo includes numerous references for Azure learning, especially for the Az
 - [Architecture](./topics/architecture.md)
 - [Security](./topics/security.md)
 - [Automation](./topics/automation.md)
+- [Costs](./topics/costs.md)
 
 ## Products
 - [Azure Resource Graph](./products/azureresourcegraph.md)
