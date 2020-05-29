@@ -10,11 +10,11 @@ For each certification you will find a dedicated page with all learning material
 
 
 ## Exam Preps
-  - Fundamentals:
+  - **Fundamentals:**
     - [Exam AZ-900: Microsoft Azure Fundamentals](az-900.md)
     - [Exam AI-900: Microsoft Azure AI Fundamentals (beta)](ai-900.md)
     - [Exam DP-900: Microsoft Azure Data Fundamentals (beta)](dp-900.md)
-  - Associate:
+  - **Associate:**
     - [Exam AZ-103: Microsoft Azure Administrator (deprecating)](az-103.md)
     - [Exam AZ-104: Microsoft Azure Administrator (beta)](az-104.md)
     - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](az-120.md)
@@ -26,13 +26,13 @@ For each certification you will find a dedicated page with all learning material
     - [Exam DP-200: Implementing an Azure Data Solution (updating)](dp-200.md)
     - [Exam DP-201: Designing an Azure Data Solution (updating)](dp-201.md)
     - [Exam DA-100: Analyzing Data with Microsoft Power BI (beta)](da-100.md)
-  - Expert:
+  - **Expert:**
     - [Exam AZ-300: Microsoft Azure Architect Technologies (deprecating)](az-300.md)
     - [Exam AZ-301: Microsoft Azure Architect Design (deprecating)](az-301.md)
     - [Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions](az-400.md)
-  - Speciality:
-    - Exam AZ-220: Microsoft Azure IoT Developer
-    - Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads
+  - **Speciality:**
+    - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](az-120.md)
+    - [Exam AZ-220: Microsoft Azure IoT Developer (beta)](az-220.md)
 
 ## Overview
 ![Overview](/img/cert-overview.png)
