@@ -21,9 +21,7 @@ This repo includes numerous references for Azure learning, especially for the Az
   - **Associate:**
     - [Exam AZ-103: Microsoft Azure Administrator (deprecating)](./topics/certifications/az-103.md)
     - [Exam AZ-104: Microsoft Azure Administrator (beta)](./topics/certifications/az-104.md)
-    - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](./topics/certifications/az-120.md)
     - [Exam AZ-204: Developing Solutions for Microsoft Azure (beta)](./topics/certifications/az-204.md)
-    - [Exam AZ-220: Microsoft Azure IoT Developer (beta)](./topics/certifications/az-220.md)
     - [Exam AZ-500: Microsoft Azure Security Technologies](./topics/certifications/az-500.md)
     - [Exam AI-100: Designing and Implementing an Azure AI Solution](./topics/certifications/ai-100.md)
     - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](./topics/certifications/dp-100.md)

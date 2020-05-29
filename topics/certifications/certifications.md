@@ -17,9 +17,7 @@ For each certification you will find a dedicated page with all learning material
   - **Associate:**
     - [Exam AZ-103: Microsoft Azure Administrator (deprecating)](az-103.md)
     - [Exam AZ-104: Microsoft Azure Administrator (beta)](az-104.md)
-    - [Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads](az-120.md)
     - [Exam AZ-204: Developing Solutions for Microsoft Azure (beta)](az-204.md)
-    - [Exam AZ-220: Microsoft Azure IoT Developer (beta)](az-220.md)
     - [Exam AZ-500: Microsoft Azure Security Technologies](az-500.md)
     - [Exam AI-100: Designing and Implementing an Azure AI Solution](ai-100.md)
     - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](dp-100.md)
