@@ -39,6 +39,7 @@ This repo includes numerous references for Azure learning, especially for the Az
 - [Architecture](./topics/architecture.md)
 - [Security](./topics/security.md)
 - [Automation](./topics/automation.md)
+- [Costs](./topics/costs.md)
 
 ## Products
 - [Azure Resource Graph](./products/azureresourcegraph.md)
@@ -52,6 +53,7 @@ This repo includes numerous references for Azure learning, especially for the Az
 - [Azure Data Factory](./products/azuredatafactory.md)
 - [Azure Logic Apps](./products/azurelogicapps.md)
 - [Azure Synapse Analytics](./products/azuresynapseanalytics.md)
+- [Azure Resource Manager (ARM)](./products/azureresourcemanager.md)
 
 
 ______
