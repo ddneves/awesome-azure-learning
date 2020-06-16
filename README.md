@@ -1,4 +1,4 @@
-# Awesome Azure Learning [![Awesome](./img/awesome.png)](https://github.com/sindresorhus/awesome)
+# Awesome Azure Learning [![Awesome](./img/awesome.png)](https://github.com/sindresorhus/awesome) ![Quality Assurance](https://github.com/ddneves/awesome-azure-learning/workflows/Quality%20Assurance/badge.svg?branch=master)
 This repo includes numerous references for Azure learning, especially for the Azure Certs, Azure Architecture, and any other learning materials e.g. Security topics.
 
 ![Learn](/img/learn.png)
