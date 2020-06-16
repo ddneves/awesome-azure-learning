@@ -16,9 +16,10 @@ You will find resources like general recommendations, detailed coding templates 
 
 
 ## Common Resources
-|                            Title/Link                            | Description                           | Author            |
-| :--------------------------------------------------------------: | :------------------------------------ | :---------------- |
-| [Build5Nines - DevOps](https://build5nines.com/category/devops/) | Great list of DevOps related articles | Chris Pietschmann |
+|                                  Title/Link                                   | Description                                                     | Author            |
+| :---------------------------------------------------------------------------: | :-------------------------------------------------------------- | :---------------- |
+|       [Build5Nines - DevOps](https://build5nines.com/category/devops/)        | Great list of DevOps related articles                           | Chris Pietschmann |
+| [Awesome PowerShell Repo](https://github.com/janikvonrotz/awesome-powershell) | A curated list of delightful PowerShell packages and resources. | Janik Vonrotz     |
 
 ## Azure DevOps
 |                                                   Title/Link                                                   | Description                          | Author |
