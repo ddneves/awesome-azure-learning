@@ -28,8 +28,3 @@ jobs:
         shell: pwsh
         run: |
           ./DeadLinksAnalyzer.ps1
-
-      - uses: actions/upload-artifact@v2
-        with:
-          name: DeadLinksList
-          path: DeadLinks.txt
