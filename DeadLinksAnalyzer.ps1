@@ -52,6 +52,6 @@ $DeadLinks = Test-MarkdownLinks -Path ".\" -NoOutput
 # Outputting dead links
 if ($DeadLinks) {
     Write-Host -Object '--- DEAD LINKS FOUND ---' -ForegroundColor Red
-    $DeadLinks | Format-Table -AutoSize | Out-String -Width 4096
+    $DeadLinks | Format-Table -AutoSize | Out-String -Width 4096 | Out-File -FilePath 'DeadLinks.txt'
     exit 1
 }
