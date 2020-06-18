@@ -30,6 +30,6 @@ jobs:
           ./DeadLinksAnalyzer.ps1
 
       - uses: actions/upload-artifact@v2
-      with:
-        name: DeadLinksList
-        path: DeadLinks.txt
+        with:
+          name: DeadLinksList
+          path: DeadLinks.txt
