@@ -20,7 +20,7 @@
             }
             
             try {
-                $request = Invoke-WebRequest -Uri $url -DisableKeepAlive -UseBasicParsing -Method head -TimeoutSec 8
+                $request = Invoke-WebRequest -Uri $url -Method head -TimeoutSec 8
             } catch {
                 if (-not $NoOutput) {
                     Write-Warning -Message "Found dead URL '$url' in '$fileName'"

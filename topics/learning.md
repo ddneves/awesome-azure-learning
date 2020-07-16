@@ -42,7 +42,6 @@ These references are useful across all certifications.
 ## Dedicated Blogs
 |                                             Title/Link                                              | Description       | Author |
 | :-------------------------------------------------------------------------------------------------: | :---------------- | :----- |
-|   [Microsoft DevOps Blogs](https://techcommunity.microsoft.com/t5/azure-devops/bg-p/AzureDevOps)    | Azure DevOps Blog | MSFT   |
 | [Azure SQL Blog](https://techcommunity.microsoft.com/t5/azure-sql-database/bg-p/Azure-SQL-Database) | Azure SQL Blog    | MSFT   |
 
 ## Articles & Guides 
