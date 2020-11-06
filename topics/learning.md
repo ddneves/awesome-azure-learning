@@ -69,6 +69,7 @@ These references are useful across all certifications.
 ## Books
 | Title/Link | Description | Author |
 | :--------: | :---------- | :----- |
+| [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering) | A book about data engineering in general and the Azure platform specifically.                                                    | Vlad Riscutia   |
 |            |             |        |
 
 ## Sessions
