@@ -25,8 +25,9 @@ This repo includes numerous references for Azure learning, especially for the Az
     - [Exam AZ-500: Microsoft Azure Security Technologies](./topics/certifications/az-500.md)
     - [Exam AI-100: Designing and Implementing an Azure AI Solution](./topics/certifications/ai-100.md)
     - [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](./topics/certifications/dp-100.md)
-    - [Exam DP-200: Implementing an Azure Data Solution (updating)](./topics/certifications/dp-200.md)
-    - [Exam DP-201: Designing an Azure Data Solution (updating)](./topics/certifications/dp-201.md)
+    - [Exam DP-200: Implementing an Azure Data Solution (Retiring)](./topics/certifications/dp-200.md)
+    - [Exam DP-201: Designing an Azure Data Solution (Retiring)](./topics/certifications/dp-201.md)
+    - [Exam DP-203: Data Engineering on Microsoft Azure (Beta)](https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203)
     - [Exam DA-100: Analyzing Data with Microsoft Power BI (beta)](./topics/certifications/da-100.md)
   - **Expert:**
     - [Exam AZ-300: Microsoft Azure Architect Technologies (deprecating)](./topics/certifications/az-300.md)
