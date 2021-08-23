@@ -70,6 +70,7 @@ These references are useful across all certifications.
 | Title/Link | Description | Author |
 | :--------: | :---------- | :----- |
 | [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering) | A book about data engineering in general and the Azure platform specifically.                                                    | Vlad Riscutia   |
+| [Azure Infrastructure as Code](https://www.manning.com/books/azure-infrastructure-as-code) | Comprehensive guide to seamlessly managing your application infrastructure with Azure’s native IaC tools.                                                    | Henry Been, Eduard Keilholz, and Erwin Staal |
 |            |             |        |
 
 ## Sessions
