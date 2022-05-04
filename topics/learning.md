@@ -70,6 +70,7 @@ These references are useful across all certifications.
 | Title/Link | Description | Author |
 | :--------: | :---------- | :----- |
 | [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering) | A book about data engineering in general and the Azure platform specifically.                                                    | Vlad Riscutia   |
+| [Genomics in Azure](https://www.manning.com/books/genomics-in-azure) | A book that teaches bioinformaticians how to create cloud-based platforms for biotech, pharmaceutical, and life sciences workloads.                                                    | Colby T. Ford   |
 |            |             |        |
 
 ## Sessions
