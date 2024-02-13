@@ -18,6 +18,7 @@ This page contains all resources about the dedicated product with general refere
 | Published | Title/Link                                                                                                                           | Author           |
 | :-------: | :----------------------------------------------------------------------------------------------------------------------------------- | :--------------- |
 | May 2020  | [Announcing ARM Template Masterclass](https://samcogan.com/arm-template-masterclass/) | Sam Cogan |
+| Feb 2024  | [What is an Azure ARM Template? Overview, Tutorial & Examples](https://spacelift.io/blog/arm-template) | Jack Roper |
 
 ## Videos / Sessions
 | Published | Title/Link | Author |
